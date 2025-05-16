@@ -8,6 +8,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | ------- |
 | [0001-two-sum](https://github.com/suman319dega/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suman319dega/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/suman319dega/Leetcode/tree/master/0031-next-permutation) |
 | [0074-search-a-2d-matrix](https://github.com/suman319dega/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/suman319dega/Leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/suman319dega/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -48,6 +49,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suman319dega/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/suman319dega/Leetcode/tree/master/0031-next-permutation) |
 ## Matrix
 |  |
 | ------- |
