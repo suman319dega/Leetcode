@@ -9,6 +9,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0001-two-sum](https://github.com/suman319dega/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suman319dega/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/suman319dega/Leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/suman319dega/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/suman319dega/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/suman319dega/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/suman319dega/Leetcode/tree/master/0898-transpose-matrix) |
@@ -27,6 +28,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/suman319dega/Leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/suman319dega/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/suman319dega/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/suman319dega/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/suman319dega/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -55,6 +57,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/suman319dega/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/suman319dega/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/suman319dega/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/suman319dega/Leetcode/tree/master/0898-transpose-matrix) |
