@@ -20,6 +20,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/suman319dega/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/suman319dega/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/suman319dega/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2227-sum-of-subarray-ranges](https://github.com/suman319dega/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [3321-type-of-triangle](https://github.com/suman319dega/Leetcode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
@@ -132,4 +133,12 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/suman319dega/Leetcode/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [2227-sum-of-subarray-ranges](https://github.com/suman319dega/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2227-sum-of-subarray-ranges](https://github.com/suman319dega/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
