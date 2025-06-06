@@ -107,6 +107,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/suman319dega/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0861-flipping-an-image](https://github.com/suman319dega/Leetcode/tree/master/0861-flipping-an-image) |
 ## String
 |  |
@@ -129,6 +130,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/suman319dega/Leetcode/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/suman319dega/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
 |  |
 | ------- |
