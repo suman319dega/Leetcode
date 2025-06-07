@@ -15,6 +15,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0075-sort-colors](https://github.com/suman319dega/Leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/suman319dega/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0777-toeplitz-matrix](https://github.com/suman319dega/Leetcode/tree/master/0777-toeplitz-matrix) |
+| [0792-binary-search](https://github.com/suman319dega/Leetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/suman319dega/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/suman319dega/Leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/suman319dega/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -93,6 +94,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/suman319dega/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/suman319dega/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0792-binary-search](https://github.com/suman319dega/Leetcode/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/suman319dega/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Sorting
 |  |
