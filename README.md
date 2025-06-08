@@ -17,6 +17,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0075-sort-colors](https://github.com/suman319dega/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suman319dega/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/suman319dega/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/suman319dega/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0777-toeplitz-matrix](https://github.com/suman319dega/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/suman319dega/Leetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/suman319dega/Leetcode/tree/master/0861-flipping-an-image) |
@@ -99,6 +100,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0035-search-insert-position](https://github.com/suman319dega/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/suman319dega/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suman319dega/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/suman319dega/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/suman319dega/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/suman319dega/Leetcode/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/suman319dega/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
