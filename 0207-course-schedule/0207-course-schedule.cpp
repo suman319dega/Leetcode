@@ -1,33 +1,39 @@
-bool dfs(int cur, vector<int>& path, vector<int>& visited, vector<vector<int>>& adj) {
-    visited[cur] = 1;
-    path[cur] = 1;
-    for(int neighbor : adj[cur]) {
-        if(!visited[neighbor]) {
-            if(dfs(neighbor, path, visited, adj)) return true;
-        } else if(path[neighbor]) {
-            return true;  
+bool topo_sort(vector<vector<int>>& adj, int n) {
+    vector<int> in(n,0);
+    queue<int> q;
+    for(int i=0; i<n; i++) {
+        for(int num : adj[i]) {
+            in[num] += 1;
         }
     }
-    path[cur] = 0;
-    return false;
+    for(int i=0; i<n; i++) {
+        if(in[i] == 0) q.push(i);
+    }
+    vector<int> ans;
+    while(!q.empty()) {
+        int a = q.front();
+        q.pop();
+        ans.push_back(a);
+        for(int num : adj[a]) {
+            in[num] -= 1;
+            if(in[num] == 0) q.push(num);
+        }
+    }
+    return ans.size() == n;
 }
+
 
 class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> adj(numCourses);
-        for(auto& pre : prerequisites) {
-            adj[pre[1]].push_back(pre[0]); 
+        int n = numCourses;
+        vector<vector<int>> adj(n);
+         for(auto &pre : prerequisites) {
+            int course = pre[0];
+            int prereq = pre[1];
+            adj[prereq].push_back(course);  
         }
-
-        vector<int> visited(numCourses, 0);
-        vector<int> path(numCourses, 0);
-
-        for(int i = 0; i < numCourses; i++) {
-            if(!visited[i]) {
-                if(dfs(i, path, visited, adj)) return false; 
-            }
-        }
-        return true; 
+        bool res = topo_sort(adj,n);
+        return res;
     }
 };
