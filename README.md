@@ -75,6 +75,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0070-climbing-stairs](https://github.com/suman319dega/Leetcode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/suman319dega/Leetcode/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/suman319dega/Leetcode/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/suman319dega/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/suman319dega/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/suman319dega/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
@@ -162,6 +163,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0151-reverse-words-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/suman319dega/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/suman319dega/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/suman319dega/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/suman319dega/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Heap (Priority Queue)
 |  |
@@ -195,6 +197,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0094-binary-tree-inorder-traversal](https://github.com/suman319dega/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/suman319dega/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suman319dega/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/suman319dega/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2227-sum-of-subarray-ranges](https://github.com/suman319dega/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -279,4 +282,8 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0207-course-schedule](https://github.com/suman319dega/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/suman319dega/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/suman319dega/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/suman319dega/Leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
