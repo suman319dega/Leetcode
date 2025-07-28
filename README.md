@@ -163,6 +163,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | ------- |
 | [0020-valid-parentheses](https://github.com/suman319dega/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/suman319dega/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/suman319dega/Leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/suman319dega/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/suman319dega/Leetcode/tree/master/0451-sort-characters-by-frequency) |
