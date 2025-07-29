@@ -54,6 +54,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0290-word-pattern](https://github.com/suman319dega/Leetcode/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/suman319dega/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/suman319dega/Leetcode/tree/master/0496-next-greater-element-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/suman319dega/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Linked List
 |  |
 | ------- |
@@ -178,6 +179,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/suman319dega/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2727-number-of-senior-citizens](https://github.com/suman319dega/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/suman319dega/Leetcode/tree/master/3379-score-of-a-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/suman319dega/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -191,6 +193,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | ------- |
 | [0169-majority-element](https://github.com/suman319dega/Leetcode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/suman319dega/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/suman319dega/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Divide and Conquer
 |  |
 | ------- |
