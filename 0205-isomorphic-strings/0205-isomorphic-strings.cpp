@@ -1,19 +1,23 @@
 class Solution {
 public:
-    
-    bool helper(string s1, string s2) {
-        if(s1.size() != s2.size()) return false;
+    bool isIsomorphic(string s, string t) {
+        if(s.size() != t.size()) return false;
         map<char,char> m;
-        for(int i=0; i<s1.size(); i++) {
-            if(m.find(s1[i]) == m.end()) {
-                m[s1[i]] = s2[i];
+        map<char,char> r;
+        for(int i=0; i<s.size(); i++) {
+            char a = s[i];
+            char b = t[i];
+            if(m.count(a)){
+                if(m[a] != b) return false;
             }
-            if(m[s1[i]] != s2[i]) return false;
+            else {
+                if(r.count(b)) return false;
+            }
+
+            m[a] = b;
+            r[b] = a;
         }
         return true;
-    }
-    
-    bool isIsomorphic(string s, string t) {
-        return helper(s,t) && helper(t,s);
+        
     }
 };
