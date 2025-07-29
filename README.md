@@ -18,6 +18,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0074-search-a-2d-matrix](https://github.com/suman319dega/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/suman319dega/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suman319dega/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/suman319dega/Leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/suman319dega/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/suman319dega/Leetcode/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suman319dega/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -76,6 +77,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0032-longest-valid-parentheses](https://github.com/suman319dega/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/suman319dega/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/suman319dega/Leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/suman319dega/Leetcode/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/suman319dega/Leetcode/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/suman319dega/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/suman319dega/Leetcode/tree/master/0678-valid-parenthesis-string) |
