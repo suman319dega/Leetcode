@@ -5,13 +5,11 @@ public:
         for(string s : arr) {
             m[s] += 1;
         }
-        vector<string> v;
+        int count = 0;
         for(string s : arr) {
-            if(m[s] == 1) {
-                v.push_back(s);
-            }
+            if(m[s] == 1) count++;
+            if(count == k) return s;
         }
-        if(k > v.size()) return "";
-        else return v[k-1];
+        return "";
     }
 };
