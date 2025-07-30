@@ -40,6 +40,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/suman319dega/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1677-matrix-diagonal-sum](https://github.com/suman319dega/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/suman319dega/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/suman319dega/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2227-sum-of-subarray-ranges](https://github.com/suman319dega/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/suman319dega/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3321-type-of-triangle](https://github.com/suman319dega/Leetcode/tree/master/3321-type-of-triangle) |
