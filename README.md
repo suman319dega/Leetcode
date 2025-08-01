@@ -64,6 +64,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0205-isomorphic-strings](https://github.com/suman319dega/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/suman319dega/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/suman319dega/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/suman319dega/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/suman319dega/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -199,6 +200,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0205-isomorphic-strings](https://github.com/suman319dega/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/suman319dega/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/suman319dega/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/suman319dega/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/suman319dega/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1297-maximum-number-of-balloons](https://github.com/suman319dega/Leetcode/tree/master/1297-maximum-number-of-balloons) |
@@ -223,6 +225,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | ------- |
 | [0169-majority-element](https://github.com/suman319dega/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/suman319dega/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/suman319dega/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1297-maximum-number-of-balloons](https://github.com/suman319dega/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/suman319dega/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -349,4 +352,8 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/suman319dega/Leetcode/tree/master/1137-height-checker) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
