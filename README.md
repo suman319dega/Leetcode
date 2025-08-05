@@ -85,6 +85,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | ------- |
 | [0002-add-two-numbers](https://github.com/suman319dega/Leetcode/tree/master/0002-add-two-numbers) |
 | [0148-sort-list](https://github.com/suman319dega/Leetcode/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/suman319dega/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +103,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/suman319dega/Leetcode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/suman319dega/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/suman319dega/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
