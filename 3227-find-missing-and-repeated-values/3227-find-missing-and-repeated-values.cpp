@@ -2,21 +2,17 @@ class Solution {
 public:
     vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) {
         int n = grid.size();
-        int total = n*n;
-        vector<int> freq(total+1, 0);
-        int m = -1, r = -1;
-        for(auto row : grid) {
-            for(int num : row) {
-                freq[num] += 1;
-                if(freq[num] == 2) r = num;
+        vector<int> freq(n*n);
+        int rep = -1,mis = -1;
+        for(auto nums: grid) {
+            for(int num : nums) {
+                freq[num-1] += 1;
             }
         }
-        for(int i=1; i<=total; i++) {
-            if(freq[i] == 0){
-                m = i;
-                break;
-            }
+        for(int i=0; i<n*n; i++) {
+            if(freq[i] == 2) rep = i+1;
+            else if(freq[i] == 0) mis = i+1;
         }
-        return {r,m};
+        return {rep,mis};
     }
 };
