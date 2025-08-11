@@ -61,6 +61,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3227-find-missing-and-repeated-values](https://github.com/suman319dega/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/suman319dega/Leetcode/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/suman319dega/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/suman319dega/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,6 +155,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/suman319dega/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/suman319dega/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/suman319dega/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/suman319dega/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -214,6 +216,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/suman319dega/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/suman319dega/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3321-type-of-triangle](https://github.com/suman319dega/Leetcode/tree/master/3321-type-of-triangle) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/suman319dega/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Union Find
 |  |
 | ------- |
