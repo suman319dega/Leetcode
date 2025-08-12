@@ -55,6 +55,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/suman319dega/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/suman319dega/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/suman319dega/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/suman319dega/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/suman319dega/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/suman319dega/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -156,6 +157,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0953-reverse-only-letters](https://github.com/suman319dega/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/suman319dega/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/suman319dega/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/suman319dega/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/suman319dega/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/suman319dega/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Matrix
@@ -254,6 +256,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/suman319dega/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1547-destination-city](https://github.com/suman319dega/Leetcode/tree/master/1547-destination-city) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/suman319dega/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/suman319dega/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/suman319dega/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2580-circular-sentence](https://github.com/suman319dega/Leetcode/tree/master/2580-circular-sentence) |
