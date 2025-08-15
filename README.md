@@ -112,6 +112,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1013-fibonacci-number](https://github.com/suman319dega/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/suman319dega/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/suman319dega/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2083-three-divisors](https://github.com/suman319dega/Leetcode/tree/master/2083-three-divisors) |
 | [3227-find-missing-and-repeated-values](https://github.com/suman319dega/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/suman319dega/Leetcode/tree/master/3321-type-of-triangle) |
 ## Recursion
@@ -421,4 +422,12 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/suman319dega/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/suman319dega/Leetcode/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/suman319dega/Leetcode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
