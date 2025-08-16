@@ -82,6 +82,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0451-sort-characters-by-frequency](https://github.com/suman319dega/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/suman319dega/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/suman319dega/Leetcode/tree/master/0645-set-mismatch) |
+| [0782-jewels-and-stones](https://github.com/suman319dega/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/suman319dega/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1547-destination-city](https://github.com/suman319dega/Leetcode/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/suman319dega/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -261,6 +262,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0451-sort-characters-by-frequency](https://github.com/suman319dega/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/suman319dega/Leetcode/tree/master/0504-base-7) |
 | [0678-valid-parenthesis-string](https://github.com/suman319dega/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0782-jewels-and-stones](https://github.com/suman319dega/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0953-reverse-only-letters](https://github.com/suman319dega/Leetcode/tree/master/0953-reverse-only-letters) |
 | [1297-maximum-number-of-balloons](https://github.com/suman319dega/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/suman319dega/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
