@@ -8,22 +8,40 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+ListNode* rev(ListNode* head) {
+    ListNode* temp = head;
+    ListNode* prev = nullptr;
+    while(temp) {
+        ListNode* back = temp -> next;
+        temp -> next = prev;
+        prev = temp;
+        temp = back;
+    }
+    return prev;
+}
+
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
         if(!head) return true;
+        ListNode* fast = head;
+        ListNode* slow = head;
+        while(fast && fast -> next) {
+            fast = fast -> next -> next;
+            slow = slow -> next;
+        }
+        ListNode* rhead = rev(slow);
         ListNode* temp = head;
-        stack<int> stk;
-        while(temp) {
-            stk.push(temp -> val);
+        ListNode* rtemp = rhead;
+        while(rtemp) {
+            if(rtemp -> val != temp -> val) {
+                rev(rhead);
+                return false;
+            }
+            rtemp = rtemp -> next;
             temp = temp -> next;
         }
-        ListNode* rev_temp = head;
-        while(rev_temp) {
-            if(rev_temp -> val != stk.top()) return false;
-            stk.pop();
-            rev_temp = rev_temp -> next;
-        }
+        rev(rhead);
         return true;
-    }
+     }
 };
