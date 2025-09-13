@@ -264,6 +264,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/suman319dega/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/suman319dega/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/suman319dega/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2887-sort-vowels-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3321-type-of-triangle](https://github.com/suman319dega/Leetcode/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/suman319dega/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Union Find
@@ -318,6 +319,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2372-rearrange-characters-to-make-target-string](https://github.com/suman319dega/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2580-circular-sentence](https://github.com/suman319dega/Leetcode/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/suman319dega/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2887-sort-vowels-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3379-score-of-a-string](https://github.com/suman319dega/Leetcode/tree/master/3379-score-of-a-string) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/suman319dega/Leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/suman319dega/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
