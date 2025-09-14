@@ -1,18 +1,15 @@
 class Solution {
 public:
     int maxFreqSum(string s) {
-        map<char,int> vowels,con;
-        for(char ch : s) {
-            if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') vowels[ch] += 1;
-            else con[ch] += 1;
-        }
+        vector<int> v(26);
         int max_v = 0,max_c = 0;
-        for(auto v : vowels) {
-            if(v.second > max_v) max_v = v.second;
+        for(char ch : s) {
+            v[ch - 'a'] += 1;
+            if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
+                max_v = max(max_v,v[ch-'a']);
+            }
+            else  max_c = max(max_c,v[ch-'a']);
         }
-        for(auto c : con) {
-            if(c.second > max_c) max_c = c.second;
-        }
-        return max_c + max_v;
+        return max_v + max_c;
     }
 };
