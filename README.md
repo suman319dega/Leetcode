@@ -146,6 +146,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3227-find-missing-and-repeated-values](https://github.com/suman319dega/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/suman319dega/Leetcode/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3830-find-closest-person](https://github.com/suman319dega/Leetcode/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
