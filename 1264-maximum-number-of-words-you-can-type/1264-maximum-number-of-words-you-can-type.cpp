@@ -13,6 +13,7 @@ public:
             for(char ch : word) {
                 if(broke[ch - 'a']) {
                     valid = false;
+                    break;
                 }
             }
             if(valid) count += 1;
