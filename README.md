@@ -72,6 +72,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1927-maximum-ascending-subarray-sum](https://github.com/suman319dega/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/suman319dega/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/suman319dega/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/suman319dega/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/suman319dega/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/suman319dega/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -242,6 +243,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0566-reshape-the-matrix](https://github.com/suman319dega/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/suman319dega/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/suman319dega/Leetcode/tree/master/0898-transpose-matrix) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/suman319dega/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -332,6 +334,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/suman319dega/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/suman319dega/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/suman319dega/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/suman319dega/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/suman319dega/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2580-circular-sentence](https://github.com/suman319dega/Leetcode/tree/master/2580-circular-sentence) |
