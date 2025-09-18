@@ -261,6 +261,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suman319dega/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/suman319dega/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/suman319dega/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/suman319dega/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suman319dega/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/suman319dega/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/suman319dega/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -554,4 +555,8 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/suman319dega/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
