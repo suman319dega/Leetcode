@@ -64,6 +64,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0932-monotonic-array](https://github.com/suman319dega/Leetcode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/suman319dega/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1036-rotting-oranges](https://github.com/suman319dega/Leetcode/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/suman319dega/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/suman319dega/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1073-number-of-enclaves](https://github.com/suman319dega/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/suman319dega/Leetcode/tree/master/1127-last-stone-weight) |
@@ -295,6 +296,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0792-binary-search](https://github.com/suman319dega/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/suman319dega/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/suman319dega/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/suman319dega/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/suman319dega/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/suman319dega/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/suman319dega/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -550,6 +552,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0238-product-of-array-except-self](https://github.com/suman319dega/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/suman319dega/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/suman319dega/Leetcode/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/suman319dega/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -578,6 +581,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0003-longest-substring-without-repeating-characters](https://github.com/suman319dega/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/suman319dega/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/suman319dega/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/suman319dega/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/suman319dega/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/suman319dega/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
