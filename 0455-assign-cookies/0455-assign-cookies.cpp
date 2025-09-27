@@ -4,10 +4,8 @@ public:
         sort(g.begin(),g.end());
         sort(s.begin(),s.end());
         int i = 0,j = 0;
-        int count = 0;
         while(i < g.size() && j < s.size()) {
             if(s[j] >= g[i]) {
-                count += 1;
                 i++, j++;
             }
             else {
@@ -15,6 +13,6 @@ public:
             }
             
         }
-        return count;
+        return i;
     }
 };
