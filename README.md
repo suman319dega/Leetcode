@@ -64,6 +64,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0907-koko-eating-bananas](https://github.com/suman319dega/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/suman319dega/Leetcode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/suman319dega/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [1018-largest-perimeter-triangle](https://github.com/suman319dega/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/suman319dega/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/suman319dega/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/suman319dega/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -167,6 +168,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0628-maximum-product-of-three-numbers](https://github.com/suman319dega/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/suman319dega/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/suman319dega/Leetcode/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/suman319dega/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/suman319dega/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/suman319dega/Leetcode/tree/master/1260-day-of-the-year) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/suman319dega/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -315,6 +317,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0628-maximum-product-of-three-numbers](https://github.com/suman319dega/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/suman319dega/Leetcode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/suman319dega/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [1018-largest-perimeter-triangle](https://github.com/suman319dega/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/suman319dega/Leetcode/tree/master/1137-height-checker) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/suman319dega/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -547,6 +550,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0455-assign-cookies](https://github.com/suman319dega/Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/suman319dega/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/suman319dega/Leetcode/tree/master/0890-lemonade-change) |
+| [1018-largest-perimeter-triangle](https://github.com/suman319dega/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/suman319dega/Leetcode/tree/master/1448-maximum-69-number) |
 ## Prefix Sum
 |  |
