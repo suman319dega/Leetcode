@@ -1,18 +1,21 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     vector<int> twoOutOfThree(vector<int>& nums1, vector<int>& nums2, vector<int>& nums3) {
-        map<int,int> m;
-        set<int> s1(nums1.begin(),nums1.end());
-        set<int> s2(nums2.begin(),nums2.end());
-        set<int> s3(nums3.begin(),nums3.end());
-        for(int num : s1) m[num]++;
-        for(int num : s2) m[num]++;
-        for(int num : s3) m[num]++;
+        int freq[101][3] = {};
+        
+        for (int x : nums1) freq[x][0] = 1;
+        for (int x : nums2) freq[x][1] = 1;
+        for (int x : nums3) freq[x][2] = 1;
 
-        vector<int> ans;
-        for(auto [num,count] : m) {
-            if(count >= 2) ans.push_back(num);
+        vector<int> result;
+        for (int i = 1; i <= 100; i++) {
+            if (freq[i][0] + freq[i][1] + freq[i][2] >= 2) {
+                result.push_back(i);
+            }
         }
-        return ans;
+        return result;
     }
 };
