@@ -87,6 +87,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/suman319dega/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/suman319dega/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/suman319dega/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2159-two-out-of-three](https://github.com/suman319dega/Leetcode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/suman319dega/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/suman319dega/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -131,6 +132,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1547-destination-city](https://github.com/suman319dega/Leetcode/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/suman319dega/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/suman319dega/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2159-two-out-of-three](https://github.com/suman319dega/Leetcode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/suman319dega/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/suman319dega/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -347,6 +349,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/suman319dega/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/suman319dega/Leetcode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/suman319dega/Leetcode/tree/master/0861-flipping-an-image) |
+| [2159-two-out-of-three](https://github.com/suman319dega/Leetcode/tree/master/2159-two-out-of-three) |
 ## String
 |  |
 | ------- |
