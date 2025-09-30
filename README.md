@@ -15,6 +15,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0035-search-insert-position](https://github.com/suman319dega/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/suman319dega/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/suman319dega/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/suman319dega/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/suman319dega/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/suman319dega/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/suman319dega/Leetcode/tree/master/0054-spiral-matrix) |
@@ -198,6 +199,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/suman319dega/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/suman319dega/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/suman319dega/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/suman319dega/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/suman319dega/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/suman319dega/Leetcode/tree/master/0070-climbing-stairs) |
@@ -555,6 +557,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/suman319dega/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/suman319dega/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/suman319dega/Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/suman319dega/Leetcode/tree/master/0678-valid-parenthesis-string) |
