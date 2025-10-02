@@ -54,6 +54,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0628-maximum-product-of-three-numbers](https://github.com/suman319dega/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/suman319dega/Leetcode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/suman319dega/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0695-max-area-of-island](https://github.com/suman319dega/Leetcode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/suman319dega/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/suman319dega/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/suman319dega/Leetcode/tree/master/0733-flood-fill) |
@@ -269,6 +270,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0240-search-a-2d-matrix-ii](https://github.com/suman319dega/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/suman319dega/Leetcode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/suman319dega/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/suman319dega/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/suman319dega/Leetcode/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/suman319dega/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/suman319dega/Leetcode/tree/master/0861-flipping-an-image) |
@@ -346,6 +348,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0128-longest-consecutive-sequence](https://github.com/suman319dega/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/suman319dega/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/suman319dega/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/suman319dega/Leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/suman319dega/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/suman319dega/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Bit Manipulation
@@ -503,6 +506,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0226-invert-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/suman319dega/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/suman319dega/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/suman319dega/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/suman319dega/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/suman319dega/Leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -538,6 +542,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0226-invert-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/suman319dega/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/suman319dega/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/suman319dega/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/suman319dega/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/suman319dega/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/suman319dega/Leetcode/tree/master/0820-find-eventual-safe-states) |
