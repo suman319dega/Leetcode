@@ -24,6 +24,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0074-search-a-2d-matrix](https://github.com/suman319dega/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/suman319dega/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/suman319dega/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/suman319dega/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suman319dega/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/suman319dega/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/suman319dega/Leetcode/tree/master/0118-pascals-triangle) |
@@ -268,6 +269,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0054-spiral-matrix](https://github.com/suman319dega/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/suman319dega/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/suman319dega/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/suman319dega/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/suman319dega/Leetcode/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/suman319dega/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/suman319dega/Leetcode/tree/master/0542-01-matrix) |
@@ -370,6 +372,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0020-valid-parentheses](https://github.com/suman319dega/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/suman319dega/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/suman319dega/Leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/suman319dega/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/suman319dega/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/suman319dega/Leetcode/tree/master/0165-compare-version-numbers) |
@@ -494,6 +497,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/suman319dega/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/suman319dega/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/suman319dega/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/suman319dega/Leetcode/tree/master/0101-symmetric-tree) |
@@ -618,6 +622,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/suman319dega/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/suman319dega/Leetcode/tree/master/0079-word-search) |
 ## Database
 |  |
 | ------- |
