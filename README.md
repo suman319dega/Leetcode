@@ -96,6 +96,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2159-two-out-of-three](https://github.com/suman319dega/Leetcode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/suman319dega/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/suman319dega/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suman319dega/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/suman319dega/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/suman319dega/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -349,6 +350,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/suman319dega/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/suman319dega/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/suman319dega/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/suman319dega/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/suman319dega/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2728-sum-in-a-matrix](https://github.com/suman319dega/Leetcode/tree/master/2728-sum-in-a-matrix) |
@@ -451,6 +453,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1635-number-of-good-pairs](https://github.com/suman319dega/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/suman319dega/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/suman319dega/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/suman319dega/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suman319dega/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/suman319dega/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
