@@ -1,21 +1,23 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
+        stack<int> stk;
+        map<int,int> m;
+        for(int num : nums2) {
+            while(!stk.empty() && stk.top() < num) {
+                m[stk.top()] = num;
+                stk.pop();
+            }
+            stk.push(num);
+        }
         vector<int> ans;
         for(int num : nums1) {
-            int idx = -1;
-            int nxt = -1;
-            for(int i=0; i<nums2.size(); i++) {
-                if(nums2[i] == num) idx = i;
+            if(m.find(num) != m.end()) {
+                ans.push_back(m[num]);
             }
-            for(int i=idx+1; i<nums2.size(); i++) {
-                if(nums2[i] > num) {
-                    nxt = nums2[i];
-                    break;
-                }
-            }
-            ans.push_back(nxt);
+            else ans.push_back(-1);
         }
         return ans;
+
     }
 };
