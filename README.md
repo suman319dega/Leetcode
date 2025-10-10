@@ -424,6 +424,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/suman319dega/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2187-vowels-of-all-substrings](https://github.com/suman319dega/Leetcode/tree/master/2187-vowels-of-all-substrings) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/suman319dega/Leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/suman319dega/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2580-circular-sentence](https://github.com/suman319dega/Leetcode/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/suman319dega/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -602,6 +603,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0890-lemonade-change](https://github.com/suman319dega/Leetcode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/suman319dega/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/suman319dega/Leetcode/tree/master/1448-maximum-69-number) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/suman319dega/Leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 ## Prefix Sum
 |  |
 | ------- |
