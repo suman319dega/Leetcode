@@ -8,6 +8,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | ------- |
 | [0001-two-sum](https://github.com/suman319dega/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/suman319dega/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/suman319dega/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suman319dega/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suman319dega/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/suman319dega/Leetcode/tree/master/0031-next-permutation) |
@@ -247,6 +248,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/suman319dega/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suman319dega/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suman319dega/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/suman319dega/Leetcode/tree/master/0031-next-permutation) |
@@ -605,6 +607,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/suman319dega/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/suman319dega/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/suman319dega/Leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/suman319dega/Leetcode/tree/master/0135-candy) |
