@@ -1,20 +1,23 @@
 class Solution {
 public:
     int numberOfSpecialChars(string word) {
-        vector<bool> lower(26, false);
-        vector<bool> upper(26, false);
+        vector<int> lastLower(26, -1);  
+        vector<int> firstUpper(26, -1); 
 
-        for (char ch : word) {
-            if (islower(ch)) {
-                lower[ch - 'a'] = !upper[ch - 'a'];
-            } else {
-                upper[ch - 'A'] = true;
-            }
+        for (int i = 0; i < word.size(); i++) {
+            char ch = word[i];
+            if (islower(ch))
+                lastLower[ch - 'a'] = i;  
+            else if (isupper(ch) && firstUpper[ch - 'A'] == -1)
+                firstUpper[ch - 'A'] = i;
         }
 
         int count = 0;
         for (int i = 0; i < 26; i++) {
-            if (lower[i] && upper[i]) count++;
+            if (lastLower[i] != -1 && firstUpper[i] != -1 &&
+                lastLower[i] < firstUpper[i]) {
+                count++;
+            }
         }
         return count;
     }
