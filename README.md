@@ -65,6 +65,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/suman319dega/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0777-toeplitz-matrix](https://github.com/suman319dega/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/suman319dega/Leetcode/tree/master/0792-binary-search) |
+| [0822-unique-morse-code-words](https://github.com/suman319dega/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/suman319dega/Leetcode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/suman319dega/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/suman319dega/Leetcode/tree/master/0890-lemonade-change) |
@@ -142,6 +143,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0500-keyboard-row](https://github.com/suman319dega/Leetcode/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/suman319dega/Leetcode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/suman319dega/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/suman319dega/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/suman319dega/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0966-binary-subarrays-with-sum](https://github.com/suman319dega/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/suman319dega/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -421,6 +423,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0742-to-lower-case](https://github.com/suman319dega/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/suman319dega/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/suman319dega/Leetcode/tree/master/0812-rotate-string) |
+| [0822-unique-morse-code-words](https://github.com/suman319dega/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/suman319dega/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/suman319dega/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/suman319dega/Leetcode/tree/master/0961-long-pressed-name) |
