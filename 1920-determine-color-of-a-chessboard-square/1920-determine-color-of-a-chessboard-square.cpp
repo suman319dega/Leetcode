@@ -4,7 +4,8 @@ public:
         int a = coordinates[0] - 'a';
         int b = coordinates[1] - '0';
         a = a + 1;
-        if((a % 2 == 0 && b % 2 == 0) || (a % 2 != 0 && b % 2 != 0)) return false;
+        int sum = a + b;
+        if(sum % 2 == 0) return false;
         else return true;
     }
 };
