@@ -170,6 +170,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1777-determine-if-two-strings-are-close](https://github.com/suman319dega/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2159-two-out-of-three](https://github.com/suman319dega/Leetcode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/suman319dega/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/suman319dega/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/suman319dega/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2502-sort-the-people](https://github.com/suman319dega/Leetcode/tree/master/2502-sort-the-people) |
@@ -470,6 +471,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2128-reverse-prefix-of-word](https://github.com/suman319dega/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/suman319dega/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/suman319dega/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2187-vowels-of-all-substrings](https://github.com/suman319dega/Leetcode/tree/master/2187-vowels-of-all-substrings) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/suman319dega/Leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/suman319dega/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
