@@ -3,11 +3,10 @@ public:
     bool containsDuplicate(vector<int>& nums) {
         map<int,int> m;
         for(int num : nums) {
-            m[num]++;
-        }
-        for(auto val : m) {
-            if(val.second > 1) return true;
+           if(m.find(num) != m.end()) return true;
+           else m[num]++;
         }
         return false;
+        
     }
 };
