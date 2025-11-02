@@ -41,6 +41,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suman319dega/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/suman319dega/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/suman319dega/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/suman319dega/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/suman319dega/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/suman319dega/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/suman319dega/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -140,6 +141,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0160-intersection-of-two-linked-lists](https://github.com/suman319dega/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/suman319dega/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/suman319dega/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/suman319dega/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/suman319dega/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/suman319dega/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/suman319dega/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -376,6 +378,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0088-merge-sorted-array](https://github.com/suman319dega/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/suman319dega/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/suman319dega/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/suman319dega/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/suman319dega/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/suman319dega/Leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/suman319dega/Leetcode/tree/master/0435-non-overlapping-intervals) |
