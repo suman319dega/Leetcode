@@ -295,6 +295,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0455-assign-cookies](https://github.com/suman319dega/Leetcode/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/suman319dega/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0861-flipping-an-image](https://github.com/suman319dega/Leetcode/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/suman319dega/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/suman319dega/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/suman319dega/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/suman319dega/Leetcode/tree/master/0953-reverse-only-letters) |
@@ -339,6 +340,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0054-spiral-matrix](https://github.com/suman319dega/Leetcode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/suman319dega/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/suman319dega/Leetcode/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/suman319dega/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/suman319dega/Leetcode/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/suman319dega/Leetcode/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/suman319dega/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -453,6 +455,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0782-jewels-and-stones](https://github.com/suman319dega/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/suman319dega/Leetcode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/suman319dega/Leetcode/tree/master/0822-unique-morse-code-words) |
+| [0874-backspace-string-compare](https://github.com/suman319dega/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/suman319dega/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/suman319dega/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/suman319dega/Leetcode/tree/master/0961-long-pressed-name) |
@@ -542,6 +545,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0234-palindrome-linked-list](https://github.com/suman319dega/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/suman319dega/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/suman319dega/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0874-backspace-string-compare](https://github.com/suman319dega/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/suman319dega/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2128-reverse-prefix-of-word](https://github.com/suman319dega/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2227-sum-of-subarray-ranges](https://github.com/suman319dega/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
