@@ -1,24 +1,16 @@
-#include <algorithm>
-using namespace std;
-
 class Solution {
 public:
     string convertToBase7(int num) {
-        if (num == 0) return "0"; 
-        
-        bool isNegative = num < 0;
+        if(num == 0) return "0";
+        bool neg = num < 0;
         num = abs(num);
-        
-        string ans = "";
-        while (num > 0) {
-            int last = num % 7;
-            ans += (last + '0'); 
-            num /= 7;
+        string res = "";
+        while(num > 0) {
+            res += to_string(num % 7);
+            num = num / 7;
         }
-        
-        if (isNegative) ans += '-'; 
-        
-        reverse(ans.begin(), ans.end()); 
-        return ans;
+        reverse(res.begin(),res.end());
+        if(neg) return "-" + res;
+        else return res;
     }
 };
