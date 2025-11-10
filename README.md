@@ -99,6 +99,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1580-shuffle-the-array](https://github.com/suman319dega/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/suman319dega/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/suman319dega/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/suman319dega/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/suman319dega/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1635-number-of-good-pairs](https://github.com/suman319dega/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/suman319dega/Leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -405,6 +406,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1256-rank-transform-of-an-array](https://github.com/suman319dega/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/suman319dega/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/suman319dega/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1777-determine-if-two-strings-are-close](https://github.com/suman319dega/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/suman319dega/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/suman319dega/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
