@@ -208,6 +208,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0048-rotate-image](https://github.com/suman319dega/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/suman319dega/Leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/suman319dega/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/suman319dega/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/suman319dega/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/suman319dega/Leetcode/tree/master/0204-count-primes) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/suman319dega/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
