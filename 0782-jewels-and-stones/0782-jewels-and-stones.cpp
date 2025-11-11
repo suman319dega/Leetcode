@@ -1,14 +1,15 @@
 class Solution {
 public:
     int numJewelsInStones(string jewels, string stones) {
-        int count = 0;
+        map<char,int> m;
+        for(char ch : jewels) m[ch] = 0;
         for(char ch : stones) {
-            int i = 0;
-            while(i < jewels.size()) {
-                if(ch == jewels[i]) count += 1;
-                i += 1;
+            if(m.find(ch) != m.end()) {
+                m[ch] += 1;
             }
         }
-        return count;
+        int ans = 0;
+        for(auto val : m) ans += val.second;
+        return ans;
     }
 };
