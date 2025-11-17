@@ -96,6 +96,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/suman319dega/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/suman319dega/Leetcode/tree/master/1547-destination-city) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/suman319dega/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/suman319dega/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/suman319dega/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
