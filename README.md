@@ -115,6 +115,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2163-kth-distinct-string-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/suman319dega/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/suman319dega/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/suman319dega/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suman319dega/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/suman319dega/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/suman319dega/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -178,6 +179,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2159-two-out-of-three](https://github.com/suman319dega/Leetcode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/suman319dega/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/suman319dega/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/suman319dega/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/suman319dega/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2502-sort-the-people](https://github.com/suman319dega/Leetcode/tree/master/2502-sort-the-people) |
@@ -360,6 +362,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0898-transpose-matrix](https://github.com/suman319dega/Leetcode/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/suman319dega/Leetcode/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/suman319dega/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/suman319dega/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/suman319dega/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suman319dega/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2728-sum-in-a-matrix](https://github.com/suman319dega/Leetcode/tree/master/2728-sum-in-a-matrix) |
@@ -418,6 +421,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1777-determine-if-two-strings-are-close](https://github.com/suman319dega/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/suman319dega/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/suman319dega/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/suman319dega/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/suman319dega/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2502-sort-the-people](https://github.com/suman319dega/Leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/suman319dega/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
