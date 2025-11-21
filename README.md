@@ -36,6 +36,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0128-longest-consecutive-sequence](https://github.com/suman319dega/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/suman319dega/Leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/suman319dega/Leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/suman319dega/Leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suman319dega/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suman319dega/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/suman319dega/Leetcode/tree/master/0162-find-peak-element) |
@@ -445,6 +446,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/suman319dega/Leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/suman319dega/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/suman319dega/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/suman319dega/Leetcode/tree/master/0338-counting-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/suman319dega/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
