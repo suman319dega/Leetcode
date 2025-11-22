@@ -129,6 +129,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2727-number-of-senior-citizens](https://github.com/suman319dega/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2728-sum-in-a-matrix](https://github.com/suman319dega/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2836-neither-minimum-nor-maximum](https://github.com/suman319dega/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/suman319dega/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/suman319dega/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suman319dega/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/suman319dega/Leetcode/tree/master/3321-type-of-triangle) |
@@ -244,6 +245,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/suman319dega/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/suman319dega/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/suman319dega/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/suman319dega/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/suman319dega/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/suman319dega/Leetcode/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/3462-vowels-game-in-a-string) |
