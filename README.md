@@ -768,6 +768,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0175-combine-two-tables](https://github.com/suman319dega/Leetcode/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/suman319dega/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/suman319dega/Leetcode/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/suman319dega/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1153-product-sales-analysis-i](https://github.com/suman319dega/Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/suman319dega/Leetcode/tree/master/1258-article-views-i) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/suman319dega/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
