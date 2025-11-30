@@ -156,6 +156,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0205-isomorphic-strings](https://github.com/suman319dega/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/suman319dega/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/suman319dega/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/suman319dega/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/suman319dega/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/suman319dega/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/suman319dega/Leetcode/tree/master/0383-ransom-note) |
@@ -413,6 +414,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0148-sort-list](https://github.com/suman319dega/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/suman319dega/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suman319dega/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/suman319dega/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/suman319dega/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/suman319dega/Leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/suman319dega/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -476,6 +478,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0165-compare-version-numbers](https://github.com/suman319dega/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/suman319dega/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/suman319dega/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/suman319dega/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/suman319dega/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/suman319dega/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/suman319dega/Leetcode/tree/master/0383-ransom-note) |
