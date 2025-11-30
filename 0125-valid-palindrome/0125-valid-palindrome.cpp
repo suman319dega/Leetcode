@@ -1,20 +1,18 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string filter = "";
-        for(char ch : s) {
-            if(isalnum(ch)) {
-                filter += tolower(ch);
+        int n = s.size();
+        string temp = "";
+        for(int i=0; i<n; i++) {
+            if((s[i] != ' ') && isalnum(s[i])) {
+                temp += tolower(s[i]);
             }
         }
-        int n = filter.size();
-        int low = 0, high = n-1;
-        while(low < high) {
-            if(filter[low] != filter[high]) {
-                return false;
-            }
-            low++,high--;
+        int low = 0, high = temp.size() - 1;
+        while(low <= high) {
+            if(temp[low++] != temp[high--]) return false;
         }
         return true;
+
     }
 };
