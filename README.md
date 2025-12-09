@@ -49,6 +49,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0219-contains-duplicate-ii](https://github.com/suman319dega/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/suman319dega/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/suman319dega/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/suman319dega/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/suman319dega/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/suman319dega/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/suman319dega/Leetcode/tree/master/0414-third-maximum-number) |
@@ -159,6 +160,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0217-contains-duplicate](https://github.com/suman319dega/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/suman319dega/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/suman319dega/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/suman319dega/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/suman319dega/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/suman319dega/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/suman319dega/Leetcode/tree/master/0383-ransom-note) |
@@ -229,6 +231,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0189-rotate-array](https://github.com/suman319dega/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/suman319dega/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/suman319dega/Leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/suman319dega/Leetcode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/suman319dega/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/suman319dega/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/suman319dega/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -400,6 +403,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suman319dega/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/suman319dega/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/suman319dega/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/suman319dega/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/suman319dega/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/suman319dega/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suman319dega/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -424,6 +428,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0169-majority-element](https://github.com/suman319dega/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suman319dega/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/suman319dega/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/suman319dega/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/suman319dega/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/suman319dega/Leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/suman319dega/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -468,6 +473,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0078-subsets](https://github.com/suman319dega/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/suman319dega/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/suman319dega/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/suman319dega/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/suman319dega/Leetcode/tree/master/0338-counting-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/suman319dega/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/suman319dega/Leetcode/tree/master/0645-set-mismatch) |
