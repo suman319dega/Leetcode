@@ -1,21 +1,17 @@
 class Solution {
 public:
     int reverse(int x) {
-        long long temp = x; 
-        bool neg = temp < 0;
-        if (neg) temp = -temp; 
-
-        long long ans = 0;
-
-        while (temp > 0) {
-            int last = temp % 10;
-            ans = ans * 10 + last;
-            temp /= 10;
-            if (ans > INT_MAX) return 0;
+        long long n = x;
+        bool  neg = n < 0;
+        if(neg) n = -1 * n;
+        long long temp = 0;
+        while(n > 0) {
+            int last = n % 10;
+            temp = temp * 10 + last;
+            n = n / 10;
         }
-
-        if (neg) ans = -ans;
-
-        return (ans < INT_MIN || ans > INT_MAX) ? 0 : ans;
+        if(temp > INT_MAX || temp < INT_MIN) return 0;
+        if(neg) return -1 * temp;
+        return temp;
     }
 };
