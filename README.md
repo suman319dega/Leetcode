@@ -228,6 +228,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0172-factorial-trailing-zeroes](https://github.com/suman319dega/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/suman319dega/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/suman319dega/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/suman319dega/Leetcode/tree/master/0258-add-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/suman319dega/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/suman319dega/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/suman319dega/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -373,6 +374,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/suman319dega/Leetcode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/suman319dega/Leetcode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/suman319dega/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/suman319dega/Leetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/suman319dega/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -758,6 +760,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/suman319dega/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/suman319dega/Leetcode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/suman319dega/Leetcode/tree/master/2083-three-divisors) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/suman319dega/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/suman319dega/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
