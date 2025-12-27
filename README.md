@@ -64,6 +64,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0485-max-consecutive-ones](https://github.com/suman319dega/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/suman319dega/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/suman319dega/Leetcode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/suman319dega/Leetcode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suman319dega/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/suman319dega/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/suman319dega/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -445,6 +446,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0451-sort-characters-by-frequency](https://github.com/suman319dega/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/suman319dega/Leetcode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/suman319dega/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0506-relative-ranks](https://github.com/suman319dega/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/suman319dega/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suman319dega/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/suman319dega/Leetcode/tree/master/0645-set-mismatch) |
@@ -565,6 +567,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/suman319dega/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/suman319dega/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/suman319dega/Leetcode/tree/master/0506-relative-ranks) |
 | [1127-last-stone-weight](https://github.com/suman319dega/Leetcode/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2728-sum-in-a-matrix](https://github.com/suman319dega/Leetcode/tree/master/2728-sum-in-a-matrix) |
