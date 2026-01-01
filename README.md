@@ -244,6 +244,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0204-count-primes](https://github.com/suman319dega/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/suman319dega/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/suman319dega/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/suman319dega/Leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/suman319dega/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/suman319dega/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/suman319dega/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -287,6 +288,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0050-powx-n](https://github.com/suman319dega/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/suman319dega/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/suman319dega/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/suman319dega/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/suman319dega/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -496,6 +498,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0191-number-of-1-bits](https://github.com/suman319dega/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/suman319dega/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/suman319dega/Leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/suman319dega/Leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/suman319dega/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/suman319dega/Leetcode/tree/master/0645-set-mismatch) |
 | [0800-letter-case-permutation](https://github.com/suman319dega/Leetcode/tree/master/0800-letter-case-permutation) |
