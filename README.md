@@ -23,6 +23,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0053-maximum-subarray](https://github.com/suman319dega/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/suman319dega/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/suman319dega/Leetcode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/suman319dega/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/suman319dega/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/suman319dega/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/suman319dega/Leetcode/tree/master/0075-sort-colors) |
@@ -234,6 +235,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0009-palindrome-number](https://github.com/suman319dega/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/suman319dega/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/suman319dega/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/suman319dega/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/suman319dega/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suman319dega/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/suman319dega/Leetcode/tree/master/0171-excel-sheet-column-number) |
