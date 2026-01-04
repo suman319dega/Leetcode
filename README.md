@@ -104,6 +104,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1256-rank-transform-of-an-array](https://github.com/suman319dega/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/suman319dega/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suman319dega/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/suman319dega/Leetcode/tree/master/1390-four-divisors) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/suman319dega/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/suman319dega/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/suman319dega/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -259,6 +260,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1025-divisor-game](https://github.com/suman319dega/Leetcode/tree/master/1025-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/suman319dega/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/suman319dega/Leetcode/tree/master/1260-day-of-the-year) |
+| [1390-four-divisors](https://github.com/suman319dega/Leetcode/tree/master/1390-four-divisors) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/suman319dega/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/suman319dega/Leetcode/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/suman319dega/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
