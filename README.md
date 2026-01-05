@@ -267,6 +267,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/suman319dega/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/suman319dega/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/suman319dega/Leetcode/tree/master/1642-water-bottles) |
+| [1688-count-of-matches-in-tournament](https://github.com/suman319dega/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/suman319dega/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/suman319dega/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2083-three-divisors](https://github.com/suman319dega/Leetcode/tree/master/2083-three-divisors) |
@@ -406,6 +407,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0874-backspace-string-compare](https://github.com/suman319dega/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/suman319dega/Leetcode/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/suman319dega/Leetcode/tree/master/1642-water-bottles) |
+| [1688-count-of-matches-in-tournament](https://github.com/suman319dega/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/suman319dega/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/suman319dega/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/suman319dega/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
