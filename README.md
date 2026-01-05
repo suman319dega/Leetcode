@@ -260,6 +260,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1025-divisor-game](https://github.com/suman319dega/Leetcode/tree/master/1025-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/suman319dega/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/suman319dega/Leetcode/tree/master/1260-day-of-the-year) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/suman319dega/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/suman319dega/Leetcode/tree/master/1390-four-divisors) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/suman319dega/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/suman319dega/Leetcode/tree/master/1448-maximum-69-number) |
@@ -507,6 +508,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0645-set-mismatch](https://github.com/suman319dega/Leetcode/tree/master/0645-set-mismatch) |
 | [0800-letter-case-permutation](https://github.com/suman319dega/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0861-flipping-an-image](https://github.com/suman319dega/Leetcode/tree/master/0861-flipping-an-image) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/suman319dega/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2159-two-out-of-three](https://github.com/suman319dega/Leetcode/tree/master/2159-two-out-of-three) |
 ## String
 |  |
