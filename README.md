@@ -555,6 +555,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0944-delete-columns-to-make-sorted](https://github.com/suman319dega/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-reverse-only-letters](https://github.com/suman319dega/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/suman319dega/Leetcode/tree/master/0961-long-pressed-name) |
+| [1021-remove-outermost-parentheses](https://github.com/suman319dega/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/suman319dega/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1260-day-of-the-year](https://github.com/suman319dega/Leetcode/tree/master/1260-day-of-the-year) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/suman319dega/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -649,6 +650,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0496-next-greater-element-i](https://github.com/suman319dega/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/suman319dega/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0874-backspace-string-compare](https://github.com/suman319dega/Leetcode/tree/master/0874-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/suman319dega/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/suman319dega/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2128-reverse-prefix-of-word](https://github.com/suman319dega/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2227-sum-of-subarray-ranges](https://github.com/suman319dega/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
