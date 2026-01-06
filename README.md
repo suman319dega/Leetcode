@@ -272,6 +272,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1642-water-bottles](https://github.com/suman319dega/Leetcode/tree/master/1642-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/suman319dega/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/suman319dega/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1903-largest-odd-number-in-string](https://github.com/suman319dega/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/suman319dega/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2083-three-divisors](https://github.com/suman319dega/Leetcode/tree/master/2083-three-divisors) |
 | [2187-vowels-of-all-substrings](https://github.com/suman319dega/Leetcode/tree/master/2187-vowels-of-all-substrings) |
@@ -567,6 +568,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/suman319dega/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1777-determine-if-two-strings-are-close](https://github.com/suman319dega/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/suman319dega/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/suman319dega/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/suman319dega/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/suman319dega/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/suman319dega/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -781,6 +783,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1018-largest-perimeter-triangle](https://github.com/suman319dega/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/suman319dega/Leetcode/tree/master/1448-maximum-69-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/suman319dega/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1903-largest-odd-number-in-string](https://github.com/suman319dega/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/suman319dega/Leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [3074-apple-redistribution-into-boxes](https://github.com/suman319dega/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Prefix Sum
