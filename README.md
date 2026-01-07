@@ -588,6 +588,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3462-vowels-game-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/suman319dega/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/suman319dega/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3798-largest-even-number](https://github.com/suman319dega/Leetcode/tree/master/3798-largest-even-number) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/suman319dega/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Heap (Priority Queue)
 |  |
