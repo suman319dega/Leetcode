@@ -122,6 +122,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1677-matrix-diagonal-sum](https://github.com/suman319dega/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/suman319dega/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/suman319dega/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/suman319dega/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/suman319dega/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/suman319dega/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/suman319dega/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -413,6 +414,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1518-water-bottles](https://github.com/suman319dega/Leetcode/tree/master/1518-water-bottles) |
 | [1642-water-bottles](https://github.com/suman319dega/Leetcode/tree/master/1642-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/suman319dega/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1929-concatenation-of-array](https://github.com/suman319dega/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/suman319dega/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/suman319dega/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/suman319dega/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
