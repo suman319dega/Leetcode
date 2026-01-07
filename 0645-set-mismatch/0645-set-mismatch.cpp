@@ -1,16 +1,14 @@
 class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {
-        int mis = 0,rep = 0;
         int n = nums.size();
-        vector<int> arr(n+1);
-        for(int num : nums) {
-            arr[num] += 1;
+        vector<int> v(n+1);
+        for(int num : nums) v[num]++;
+        int rep = -1, miss = -1;
+        for(int i=0; i<=n; i++) {
+            if(v[i] == 2) rep = i;
+            if(v[i] == 0) miss = i;
         }
-        for(int i=1; i<n+1; i++){
-            if(arr[i] > 1) rep = i;
-            else if(arr[i] == 0) mis = i;
-        }
-        return {rep,mis};
+        return {rep,miss};
     }
 };
