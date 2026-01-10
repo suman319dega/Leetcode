@@ -339,6 +339,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0011-container-with-most-water](https://github.com/suman319dega/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suman319dega/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suman319dega/Leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/suman319dega/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/suman319dega/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/suman319dega/Leetcode/tree/master/0075-sort-colors) |
@@ -526,6 +527,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0003-longest-substring-without-repeating-characters](https://github.com/suman319dega/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/suman319dega/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/suman319dega/Leetcode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/suman319dega/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/suman319dega/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/suman319dega/Leetcode/tree/master/0058-length-of-last-word) |
@@ -813,6 +815,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/suman319dega/Leetcode/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/suman319dega/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Enumeration
