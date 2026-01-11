@@ -1,20 +1,12 @@
-bool inc(vector<int>& nums) {
-    for(int i=1; i<nums.size(); i++) {
-        if(nums[i] < nums[i-1]) return false;
-    }
-    return true;
-}
-
-bool dec(vector<int>& nums) {
-    for(int i=1; i<nums.size(); i++) {
-        if(nums[i] > nums[i-1]) return false;
-    }
-    return true;
-}
-
 class Solution {
 public:
     bool isMonotonic(vector<int>& nums) {
-        return inc(nums) || dec(nums);
+        bool inc = true, dec = true;
+        int n = nums.size();
+        for(int i=1; i<n; i++) {
+            if(nums[i] > nums[i-1]) dec = false;
+            if(nums[i] < nums[i-1]) inc = false;
+        }
+        return inc || dec;
     }
 };
