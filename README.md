@@ -86,6 +86,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0861-flipping-an-image](https://github.com/suman319dega/Leetcode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/suman319dega/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/suman319dega/Leetcode/tree/master/0890-lemonade-change) |
+| [0896-monotonic-array](https://github.com/suman319dega/Leetcode/tree/master/0896-monotonic-array) |
 | [0898-transpose-matrix](https://github.com/suman319dega/Leetcode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/suman319dega/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0922-sort-array-by-parity-ii](https://github.com/suman319dega/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
