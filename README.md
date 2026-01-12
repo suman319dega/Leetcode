@@ -513,6 +513,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0695-max-area-of-island](https://github.com/suman319dega/Leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/suman319dega/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/suman319dega/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1971-find-if-path-exists-in-graph](https://github.com/suman319dega/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -721,6 +722,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0820-find-eventual-safe-states](https://github.com/suman319dega/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/suman319dega/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/suman319dega/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -764,6 +766,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1036-rotting-oranges](https://github.com/suman319dega/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/suman319dega/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/suman319dega/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
@@ -773,6 +776,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0801-is-graph-bipartite](https://github.com/suman319dega/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/suman319dega/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1791-find-center-of-star-graph](https://github.com/suman319dega/Leetcode/tree/master/1791-find-center-of-star-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/suman319dega/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
