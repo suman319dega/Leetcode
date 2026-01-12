@@ -772,6 +772,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0547-number-of-provinces](https://github.com/suman319dega/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/suman319dega/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/suman319dega/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1791-find-center-of-star-graph](https://github.com/suman319dega/Leetcode/tree/master/1791-find-center-of-star-graph) |
 ## Topological Sort
 |  |
 | ------- |
