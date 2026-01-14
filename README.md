@@ -159,6 +159,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/suman319dega/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/suman319dega/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/suman319dega/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suman319dega/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -411,6 +412,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2728-sum-in-a-matrix](https://github.com/suman319dega/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/suman319dega/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/suman319dega/Leetcode/tree/master/3330-modify-the-matrix) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suman319dega/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -516,6 +518,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0801-is-graph-bipartite](https://github.com/suman319dega/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/suman319dega/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/suman319dega/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suman319dega/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -726,6 +729,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1073-number-of-enclaves](https://github.com/suman319dega/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/suman319dega/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suman319dega/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -770,6 +774,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1073-number-of-enclaves](https://github.com/suman319dega/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/suman319dega/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suman319dega/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph
 |  |
 | ------- |
