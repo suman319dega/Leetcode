@@ -2,14 +2,12 @@ class Solution {
 public:
     vector<int> getConcatenation(vector<int>& nums) {
         int n = nums.size();
-        int a = 2 * n;
-        vector<int>temp(a);
-        for(int i=0; i<n; i++) {
-            temp[i] = nums[i];
+        vector<int> ans(2*n);
+        int j = (2*n) - 1;
+        for(int i=n-1; i>=0; i--) {
+            ans[j--] = nums[i];
+            ans[i] = nums[i];
         }
-        for(int i=n; i<a; i++) {
-            temp[i] = nums[i%n];
-        }
-        return temp;
+        return ans;
     }
 };
