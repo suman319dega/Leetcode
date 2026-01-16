@@ -82,6 +82,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/suman319dega/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0777-toeplitz-matrix](https://github.com/suman319dega/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/suman319dega/Leetcode/tree/master/0792-binary-search) |
+| [0804-unique-morse-code-words](https://github.com/suman319dega/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0822-unique-morse-code-words](https://github.com/suman319dega/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/suman319dega/Leetcode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/suman319dega/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -194,6 +195,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0645-set-mismatch](https://github.com/suman319dega/Leetcode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/suman319dega/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/suman319dega/Leetcode/tree/master/0791-custom-sort-string) |
+| [0804-unique-morse-code-words](https://github.com/suman319dega/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0822-unique-morse-code-words](https://github.com/suman319dega/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/suman319dega/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/suman319dega/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -569,6 +571,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0782-jewels-and-stones](https://github.com/suman319dega/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/suman319dega/Leetcode/tree/master/0791-custom-sort-string) |
 | [0800-letter-case-permutation](https://github.com/suman319dega/Leetcode/tree/master/0800-letter-case-permutation) |
+| [0804-unique-morse-code-words](https://github.com/suman319dega/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0812-rotate-string](https://github.com/suman319dega/Leetcode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/suman319dega/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0857-positions-of-large-groups](https://github.com/suman319dega/Leetcode/tree/master/0857-positions-of-large-groups) |
