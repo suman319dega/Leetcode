@@ -53,6 +53,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0240-search-a-2d-matrix-ii](https://github.com/suman319dega/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/suman319dega/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/suman319dega/Leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/suman319dega/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/suman319dega/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/suman319dega/Leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/suman319dega/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -824,6 +825,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/suman319dega/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/suman319dega/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/suman319dega/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/suman319dega/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/suman319dega/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/suman319dega/Leetcode/tree/master/0724-find-pivot-index) |
@@ -923,4 +925,8 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/suman319dega/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/suman319dega/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/suman319dega/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
