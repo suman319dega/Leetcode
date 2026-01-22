@@ -108,6 +108,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1207-unique-number-of-occurrences](https://github.com/suman319dega/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1256-rank-transform-of-an-array](https://github.com/suman319dega/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/suman319dega/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/suman319dega/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/suman319dega/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/suman319dega/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suman319dega/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
