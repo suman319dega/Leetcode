@@ -132,6 +132,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/suman319dega/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/suman319dega/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/suman319dega/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/suman319dega/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/suman319dega/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/suman319dega/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/suman319dega/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -854,6 +855,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0724-find-pivot-index](https://github.com/suman319dega/Leetcode/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/suman319dega/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/suman319dega/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1991-find-the-middle-index-in-array](https://github.com/suman319dega/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/suman319dega/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Counting Sort
 |  |
