@@ -105,6 +105,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1073-number-of-enclaves](https://github.com/suman319dega/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/suman319dega/Leetcode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/suman319dega/Leetcode/tree/master/1137-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/suman319dega/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/suman319dega/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1256-rank-transform-of-an-array](https://github.com/suman319dega/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/suman319dega/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -508,6 +509,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0941-sort-array-by-parity](https://github.com/suman319dega/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/suman319dega/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/suman319dega/Leetcode/tree/master/1137-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/suman319dega/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/suman319dega/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/suman319dega/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/suman319dega/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
