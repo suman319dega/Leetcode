@@ -155,6 +155,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2728-sum-in-a-matrix](https://github.com/suman319dega/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2836-neither-minimum-nor-maximum](https://github.com/suman319dega/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/suman319dega/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/suman319dega/Leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/suman319dega/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/suman319dega/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suman319dega/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -427,6 +428,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2398-check-if-matrix-is-x-matrix](https://github.com/suman319dega/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/suman319dega/Leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2728-sum-in-a-matrix](https://github.com/suman319dega/Leetcode/tree/master/2728-sum-in-a-matrix) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/suman319dega/Leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3227-find-missing-and-repeated-values](https://github.com/suman319dega/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/suman319dega/Leetcode/tree/master/3330-modify-the-matrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suman319dega/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
