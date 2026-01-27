@@ -254,6 +254,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0234-palindrome-linked-list](https://github.com/suman319dega/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/suman319dega/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0706-design-hashmap](https://github.com/suman319dega/Leetcode/tree/master/0706-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/suman319dega/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/suman319dega/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -389,6 +390,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0633-sum-of-square-numbers](https://github.com/suman319dega/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0861-flipping-an-image](https://github.com/suman319dega/Leetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/suman319dega/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/suman319dega/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/suman319dega/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/suman319dega/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-sort-array-by-parity](https://github.com/suman319dega/Leetcode/tree/master/0941-sort-array-by-parity) |
