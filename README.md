@@ -720,6 +720,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0144-binary-tree-preorder-traversal](https://github.com/suman319dega/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suman319dega/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suman319dega/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/suman319dega/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/suman319dega/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/suman319dega/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/suman319dega/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -888,6 +889,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/suman319dega/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
@@ -977,6 +979,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/suman319dega/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/suman319dega/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0706-design-hashmap](https://github.com/suman319dega/Leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
