@@ -470,6 +470,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2324-find-triangular-sum-of-an-array](https://github.com/suman319dega/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2728-sum-in-a-matrix](https://github.com/suman319dega/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [3379-transformed-array](https://github.com/suman319dega/Leetcode/tree/master/3379-transformed-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/suman319dega/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/suman319dega/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
 |  |
@@ -654,6 +655,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3405-count-the-number-of-special-characters-ii](https://github.com/suman319dega/Leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/suman319dega/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3462-vowels-game-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/suman319dega/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/suman319dega/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/suman319dega/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/suman319dega/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
