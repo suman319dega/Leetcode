@@ -171,6 +171,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3321-type-of-triangle](https://github.com/suman319dega/Leetcode/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/suman319dega/Leetcode/tree/master/3330-modify-the-matrix) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/suman319dega/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3379-transformed-array](https://github.com/suman319dega/Leetcode/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/suman319dega/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/suman319dega/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/suman319dega/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -468,6 +469,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2288-count-operations-to-obtain-zero](https://github.com/suman319dega/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suman319dega/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2728-sum-in-a-matrix](https://github.com/suman319dega/Leetcode/tree/master/2728-sum-in-a-matrix) |
+| [3379-transformed-array](https://github.com/suman319dega/Leetcode/tree/master/3379-transformed-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/suman319dega/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
 |  |
