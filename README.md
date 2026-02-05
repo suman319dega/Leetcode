@@ -417,6 +417,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/suman319dega/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/suman319dega/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/suman319dega/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3794-reverse-string-prefix](https://github.com/suman319dega/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Matrix
 |  |
 | ------- |
@@ -659,6 +660,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/suman319dega/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/suman319dega/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/suman319dega/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3794-reverse-string-prefix](https://github.com/suman319dega/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/suman319dega/Leetcode/tree/master/3798-largest-even-number) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/suman319dega/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Heap (Priority Queue)
