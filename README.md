@@ -761,6 +761,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0199-binary-tree-right-side-view](https://github.com/suman319dega/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/suman319dega/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/suman319dega/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
@@ -809,6 +810,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0199-binary-tree-right-side-view](https://github.com/suman319dega/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/suman319dega/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/suman319dega/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
@@ -971,6 +973,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/suman319dega/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/suman319dega/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/suman319dega/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Combinatorics
 |  |
