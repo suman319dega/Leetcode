@@ -161,6 +161,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2727-number-of-senior-citizens](https://github.com/suman319dega/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2728-sum-in-a-matrix](https://github.com/suman319dega/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2836-neither-minimum-nor-maximum](https://github.com/suman319dega/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2974-minimum-number-game](https://github.com/suman319dega/Leetcode/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/suman319dega/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/suman319dega/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/suman319dega/Leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
@@ -470,6 +471,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2288-count-operations-to-obtain-zero](https://github.com/suman319dega/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suman319dega/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2728-sum-in-a-matrix](https://github.com/suman319dega/Leetcode/tree/master/2728-sum-in-a-matrix) |
+| [2974-minimum-number-game](https://github.com/suman319dega/Leetcode/tree/master/2974-minimum-number-game) |
 | [3379-transformed-array](https://github.com/suman319dega/Leetcode/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/suman319dega/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/suman319dega/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -549,6 +551,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2728-sum-in-a-matrix](https://github.com/suman319dega/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2836-neither-minimum-nor-maximum](https://github.com/suman319dega/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2887-sort-vowels-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [2974-minimum-number-game](https://github.com/suman319dega/Leetcode/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/suman319dega/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/suman319dega/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3321-type-of-triangle](https://github.com/suman319dega/Leetcode/tree/master/3321-type-of-triangle) |
@@ -673,6 +676,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1127-last-stone-weight](https://github.com/suman319dega/Leetcode/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2728-sum-in-a-matrix](https://github.com/suman319dega/Leetcode/tree/master/2728-sum-in-a-matrix) |
+| [2974-minimum-number-game](https://github.com/suman319dega/Leetcode/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
