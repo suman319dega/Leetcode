@@ -89,6 +89,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0792-binary-search](https://github.com/suman319dega/Leetcode/tree/master/0792-binary-search) |
 | [0804-unique-morse-code-words](https://github.com/suman319dega/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0822-unique-morse-code-words](https://github.com/suman319dega/Leetcode/tree/master/0822-unique-morse-code-words) |
+| [0848-shifting-letters](https://github.com/suman319dega/Leetcode/tree/master/0848-shifting-letters) |
 | [0861-flipping-an-image](https://github.com/suman319dega/Leetcode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/suman319dega/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/suman319dega/Leetcode/tree/master/0890-lemonade-change) |
@@ -622,6 +623,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0804-unique-morse-code-words](https://github.com/suman319dega/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0812-rotate-string](https://github.com/suman319dega/Leetcode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/suman319dega/Leetcode/tree/master/0822-unique-morse-code-words) |
+| [0848-shifting-letters](https://github.com/suman319dega/Leetcode/tree/master/0848-shifting-letters) |
 | [0857-positions-of-large-groups](https://github.com/suman319dega/Leetcode/tree/master/0857-positions-of-large-groups) |
 | [0874-backspace-string-compare](https://github.com/suman319dega/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/suman319dega/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -897,6 +899,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0560-subarray-sum-equals-k](https://github.com/suman319dega/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/suman319dega/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/suman319dega/Leetcode/tree/master/0724-find-pivot-index) |
+| [0848-shifting-letters](https://github.com/suman319dega/Leetcode/tree/master/0848-shifting-letters) |
 | [0966-binary-subarrays-with-sum](https://github.com/suman319dega/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/suman319dega/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/suman319dega/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
