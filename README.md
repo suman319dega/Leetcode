@@ -772,6 +772,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0199-binary-tree-right-side-view](https://github.com/suman319dega/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/suman319dega/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/suman319dega/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -797,6 +798,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0463-island-perimeter](https://github.com/suman319dega/Leetcode/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/suman319dega/Leetcode/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/suman319dega/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/suman319dega/Leetcode/tree/master/0733-flood-fill) |
@@ -823,6 +825,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0199-binary-tree-right-side-view](https://github.com/suman319dega/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/suman319dega/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/suman319dega/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -844,6 +847,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0463-island-perimeter](https://github.com/suman319dega/Leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/suman319dega/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/suman319dega/Leetcode/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/suman319dega/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/suman319dega/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/suman319dega/Leetcode/tree/master/0801-is-graph-bipartite) |
