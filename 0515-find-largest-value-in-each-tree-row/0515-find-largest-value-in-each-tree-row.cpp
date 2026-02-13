@@ -18,16 +18,15 @@ public:
         q.push(root);
         while(!q.empty()) {
             int n = q.size();
-            vector<int> temp;
+            int max_el = INT_MIN;
             for(int i=0; i<n; i++) {
                 TreeNode* x = q.front();
                 q.pop();
-                temp.push_back(x -> val);
+                max_el = max(max_el,x -> val);
                 if(x -> left) q.push(x -> left);
                 if(x -> right) q.push(x -> right);
             }
-            sort(temp.rbegin(),temp.rend());
-            ans.push_back(temp[0]);
+            ans.push_back(max_el);
         }
         return ans;
     }
