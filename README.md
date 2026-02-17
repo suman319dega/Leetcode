@@ -107,6 +107,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1046-max-consecutive-ones-iii](https://github.com/suman319dega/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/suman319dega/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1073-number-of-enclaves](https://github.com/suman319dega/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1089-duplicate-zeros](https://github.com/suman319dega/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1127-last-stone-weight](https://github.com/suman319dega/Leetcode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/suman319dega/Leetcode/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/suman319dega/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -413,6 +414,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0941-sort-array-by-parity](https://github.com/suman319dega/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/suman319dega/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/suman319dega/Leetcode/tree/master/0961-long-pressed-name) |
+| [1089-duplicate-zeros](https://github.com/suman319dega/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/suman319dega/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/suman319dega/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/suman319dega/Leetcode/tree/master/1894-merge-strings-alternately) |
