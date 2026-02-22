@@ -20,6 +20,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0045-jump-game-ii](https://github.com/suman319dega/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/suman319dega/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/suman319dega/Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/suman319dega/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/suman319dega/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/suman319dega/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/suman319dega/Leetcode/tree/master/0055-jump-game) |
@@ -969,6 +970,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/suman319dega/Leetcode/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/suman319dega/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/suman319dega/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/suman319dega/Leetcode/tree/master/0079-word-search) |
 | [0800-letter-case-permutation](https://github.com/suman319dega/Leetcode/tree/master/0800-letter-case-permutation) |
