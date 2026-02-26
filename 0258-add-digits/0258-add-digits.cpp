@@ -1,20 +1,18 @@
-int add(int num) {
-    int sum = 0;
-    while(num > 0) {
-        int last = num % 10;
-        sum += last;
-        num = num / 10;
-    }
-    return sum;
-}
-
 class Solution {
 public:
+    int sum(int num) {
+        int ans = 0;
+        while(num != 0) {
+            ans += num % 10;
+            num = num / 10;
+        }
+        return ans;
+    }
+
     int addDigits(int num) {
-        if(num == 0) return 0;
-        while(num >= 10) {
-            int sum = add(num);
-            num = sum;
+        while(num > 9) {
+            int val = sum(num);
+            num = val;
         }
         return num;
     }
