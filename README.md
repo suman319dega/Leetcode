@@ -143,6 +143,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1635-number-of-good-pairs](https://github.com/suman319dega/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/suman319dega/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1748-sum-of-unique-elements](https://github.com/suman319dega/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/suman319dega/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/suman319dega/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/suman319dega/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/suman319dega/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -380,6 +381,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1236-n-th-tribonacci-number](https://github.com/suman319dega/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/suman319dega/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/suman319dega/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/suman319dega/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2187-vowels-of-all-substrings](https://github.com/suman319dega/Leetcode/tree/master/2187-vowels-of-all-substrings) |
 ## Memoization
 |  |
