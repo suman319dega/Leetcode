@@ -291,6 +291,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0048-rotate-image](https://github.com/suman319dega/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/suman319dega/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/suman319dega/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/suman319dega/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/suman319dega/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suman319dega/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/suman319dega/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -503,6 +504,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0033-search-in-rotated-sorted-array](https://github.com/suman319dega/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suman319dega/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/suman319dega/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/suman319dega/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/suman319dega/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suman319dega/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suman319dega/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
