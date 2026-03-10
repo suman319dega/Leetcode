@@ -83,6 +83,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/suman319dega/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/suman319dega/Leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/suman319dega/Leetcode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/suman319dega/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/suman319dega/Leetcode/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/suman319dega/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/suman319dega/Leetcode/tree/master/0724-find-pivot-index) |
@@ -222,6 +223,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0560-subarray-sum-equals-k](https://github.com/suman319dega/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/suman319dega/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/suman319dega/Leetcode/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/suman319dega/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/suman319dega/Leetcode/tree/master/0706-design-hashmap) |
 | [0782-jewels-and-stones](https://github.com/suman319dega/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/suman319dega/Leetcode/tree/master/0791-custom-sort-string) |
@@ -279,6 +281,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0206-reverse-linked-list](https://github.com/suman319dega/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/suman319dega/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/suman319dega/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0705-design-hashset](https://github.com/suman319dega/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/suman319dega/Leetcode/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/suman319dega/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/suman319dega/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -1056,10 +1059,12 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/suman319dega/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/suman319dega/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/suman319dega/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/suman319dega/Leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/suman319dega/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/suman319dega/Leetcode/tree/master/0706-design-hashmap) |
 ## Radix Sort
 |  |
