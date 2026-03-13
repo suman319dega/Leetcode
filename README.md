@@ -1012,6 +1012,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/suman319dega/Leetcode/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/suman319dega/Leetcode/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/suman319dega/Leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/suman319dega/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/suman319dega/Leetcode/tree/master/0584-find-customer-referee) |
