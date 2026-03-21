@@ -694,6 +694,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2163-kth-distinct-string-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/suman319dega/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2187-vowels-of-all-substrings](https://github.com/suman319dega/Leetcode/tree/master/2187-vowels-of-all-substrings) |
+| [2278-percentage-of-letter-in-string](https://github.com/suman319dega/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/suman319dega/Leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/suman319dega/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2502-sort-the-people](https://github.com/suman319dega/Leetcode/tree/master/2502-sort-the-people) |
