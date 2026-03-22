@@ -147,6 +147,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1748-sum-of-unique-elements](https://github.com/suman319dega/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/suman319dega/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/suman319dega/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/suman319dega/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/suman319dega/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/suman319dega/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/suman319dega/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -469,6 +470,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/suman319dega/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/suman319dega/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/suman319dega/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/suman319dega/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/suman319dega/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/suman319dega/Leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2728-sum-in-a-matrix](https://github.com/suman319dega/Leetcode/tree/master/2728-sum-in-a-matrix) |
