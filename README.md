@@ -261,6 +261,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2502-sort-the-people](https://github.com/suman319dega/Leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/suman319dega/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/suman319dega/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/suman319dega/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3227-find-missing-and-repeated-values](https://github.com/suman319dega/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suman319dega/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/suman319dega/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -341,6 +342,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/suman319dega/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/suman319dega/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/suman319dega/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/suman319dega/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3099-harshad-number](https://github.com/suman319dega/Leetcode/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/suman319dega/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/suman319dega/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
