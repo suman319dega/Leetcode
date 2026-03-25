@@ -344,6 +344,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/suman319dega/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/suman319dega/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/suman319dega/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2769-find-the-maximum-achievable-number](https://github.com/suman319dega/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3099-harshad-number](https://github.com/suman319dega/Leetcode/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/suman319dega/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/suman319dega/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
