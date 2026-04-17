@@ -252,6 +252,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1635-number-of-good-pairs](https://github.com/suman319dega/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/suman319dega/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1777-determine-if-two-strings-are-close](https://github.com/suman319dega/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/suman319dega/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2159-two-out-of-three](https://github.com/suman319dega/Leetcode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/suman319dega/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -692,6 +693,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1704-determine-if-string-halves-are-alike](https://github.com/suman319dega/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1777-determine-if-two-strings-are-close](https://github.com/suman319dega/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/suman319dega/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/suman319dega/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/suman319dega/Leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/suman319dega/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1894-merge-strings-alternately](https://github.com/suman319dega/Leetcode/tree/master/1894-merge-strings-alternately) |
