@@ -454,6 +454,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/suman319dega/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/suman319dega/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/suman319dega/Leetcode/tree/master/3794-reverse-string-prefix) |
+| [3884-first-matching-character-from-both-ends](https://github.com/suman319dega/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Matrix
 |  |
 | ------- |
@@ -728,6 +729,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3794-reverse-string-prefix](https://github.com/suman319dega/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/suman319dega/Leetcode/tree/master/3798-largest-even-number) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/suman319dega/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3884-first-matching-character-from-both-ends](https://github.com/suman319dega/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
