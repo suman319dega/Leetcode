@@ -360,6 +360,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3515-find-if-digit-game-can-be-won](https://github.com/suman319dega/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/suman319dega/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/suman319dega/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/suman319dega/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/suman319dega/Leetcode/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
