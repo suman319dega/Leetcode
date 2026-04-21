@@ -254,6 +254,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1748-sum-of-unique-elements](https://github.com/suman319dega/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1777-determine-if-two-strings-are-close](https://github.com/suman319dega/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/suman319dega/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/suman319dega/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2159-two-out-of-three](https://github.com/suman319dega/Leetcode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/suman319dega/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -702,6 +703,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1894-merge-strings-alternately](https://github.com/suman319dega/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/suman319dega/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/suman319dega/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/suman319dega/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/suman319dega/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/suman319dega/Leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/suman319dega/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -765,6 +767,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1704-determine-if-string-halves-are-alike](https://github.com/suman319dega/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/suman319dega/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1777-determine-if-two-strings-are-close](https://github.com/suman319dega/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/suman319dega/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/suman319dega/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/suman319dega/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
