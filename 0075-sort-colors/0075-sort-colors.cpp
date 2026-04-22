@@ -8,8 +8,9 @@ public:
             else two++;
         }
         int i = 0;
-        while(zero --> 0) nums[i++] = 0;
-        while(one --> 0) nums[i++] = 1;
-        while(two --> 0) nums[i++] = 2;
+        while(zero -- > 0) nums[i++] = 0;
+        while(one -- > 0) nums[i++] = 1;
+        while(two -- > 0) nums[i++] = 2;
+
     }
 };
