@@ -190,6 +190,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/suman319dega/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3379-transformed-array](https://github.com/suman319dega/Leetcode/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/suman319dega/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3452-sum-of-good-numbers](https://github.com/suman319dega/Leetcode/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/suman319dega/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/suman319dega/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/suman319dega/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
