@@ -724,6 +724,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/suman319dega/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/suman319dega/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2887-sort-vowels-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3136-valid-word](https://github.com/suman319dega/Leetcode/tree/master/3136-valid-word) |
 | [3210-find-the-encrypted-string](https://github.com/suman319dega/Leetcode/tree/master/3210-find-the-encrypted-string) |
 | [3379-score-of-a-string](https://github.com/suman319dega/Leetcode/tree/master/3379-score-of-a-string) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/suman319dega/Leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
