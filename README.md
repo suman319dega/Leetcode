@@ -669,6 +669,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0500-keyboard-row](https://github.com/suman319dega/Leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/suman319dega/Leetcode/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/suman319dega/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/suman319dega/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/suman319dega/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0678-valid-parenthesis-string](https://github.com/suman319dega/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0742-to-lower-case](https://github.com/suman319dega/Leetcode/tree/master/0742-to-lower-case) |
