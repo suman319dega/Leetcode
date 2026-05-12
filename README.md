@@ -126,6 +126,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1319-unique-number-of-occurrences](https://github.com/suman319dega/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/suman319dega/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suman319dega/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/suman319dega/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/suman319dega/Leetcode/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/suman319dega/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -504,6 +505,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0861-flipping-an-image](https://github.com/suman319dega/Leetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/suman319dega/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/suman319dega/Leetcode/tree/master/0898-transpose-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/suman319dega/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/suman319dega/Leetcode/tree/master/1518-water-bottles) |
 | [1642-water-bottles](https://github.com/suman319dega/Leetcode/tree/master/1642-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/suman319dega/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
