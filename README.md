@@ -867,6 +867,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/suman319dega/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/suman319dega/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0872-leaf-similar-trees](https://github.com/suman319dega/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -897,6 +898,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0733-flood-fill](https://github.com/suman319dega/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/suman319dega/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/suman319dega/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0872-leaf-similar-trees](https://github.com/suman319dega/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1073-number-of-enclaves](https://github.com/suman319dega/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/suman319dega/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -924,6 +926,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/suman319dega/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/suman319dega/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0872-leaf-similar-trees](https://github.com/suman319dega/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
