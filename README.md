@@ -173,6 +173,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2404-most-frequent-even-element](https://github.com/suman319dega/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/suman319dega/Leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/suman319dega/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2553-separate-the-digits-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/suman319dega/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/suman319dega/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/suman319dega/Leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
@@ -524,6 +525,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/suman319dega/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/suman319dega/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suman319dega/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2728-sum-in-a-matrix](https://github.com/suman319dega/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2974-minimum-number-game](https://github.com/suman319dega/Leetcode/tree/master/2974-minimum-number-game) |
 | [3379-transformed-array](https://github.com/suman319dega/Leetcode/tree/master/3379-transformed-array) |
