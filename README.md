@@ -714,6 +714,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1542-consecutive-characters](https://github.com/suman319dega/Leetcode/tree/master/1542-consecutive-characters) |
 | [1547-destination-city](https://github.com/suman319dega/Leetcode/tree/master/1547-destination-city) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/suman319dega/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/suman319dega/Leetcode/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/suman319dega/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1777-determine-if-two-strings-are-close](https://github.com/suman319dega/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/suman319dega/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
