@@ -275,6 +275,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/suman319dega/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/suman319dega/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/suman319dega/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/suman319dega/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/suman319dega/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suman319dega/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/suman319dega/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -742,6 +743,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/suman319dega/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/suman319dega/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2887-sort-vowels-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/suman319dega/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/suman319dega/Leetcode/tree/master/3136-valid-word) |
 | [3210-find-the-encrypted-string](https://github.com/suman319dega/Leetcode/tree/master/3210-find-the-encrypted-string) |
 | [3379-score-of-a-string](https://github.com/suman319dega/Leetcode/tree/master/3379-score-of-a-string) |
