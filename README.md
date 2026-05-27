@@ -202,6 +202,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/suman319dega/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/suman319dega/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suman319dega/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3861-minimum-capacity-box](https://github.com/suman319dega/Leetcode/tree/master/3861-minimum-capacity-box) |
 | [3917-count-indices-with-opposite-parity](https://github.com/suman319dega/Leetcode/tree/master/3917-count-indices-with-opposite-parity) |
 ## Hash Table
 |  |
