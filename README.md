@@ -189,6 +189,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3227-find-missing-and-repeated-values](https://github.com/suman319dega/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suman319dega/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/suman319dega/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/suman319dega/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/suman319dega/Leetcode/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/suman319dega/Leetcode/tree/master/3330-modify-the-matrix) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/suman319dega/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -368,6 +369,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/suman319dega/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/suman319dega/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/suman319dega/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/suman319dega/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/suman319dega/Leetcode/tree/master/3321-type-of-triangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/suman319dega/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/3462-vowels-game-in-a-string) |
