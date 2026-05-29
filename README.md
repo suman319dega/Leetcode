@@ -233,6 +233,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0442-find-all-duplicates-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/suman319dega/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/suman319dega/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/suman319dega/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/suman319dega/Leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/suman319dega/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -302,6 +303,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0206-reverse-linked-list](https://github.com/suman319dega/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/suman319dega/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/suman319dega/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/suman319dega/Leetcode/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/suman319dega/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/suman319dega/Leetcode/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/suman319dega/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -1129,6 +1131,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/suman319dega/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/suman319dega/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0460-lfu-cache](https://github.com/suman319dega/Leetcode/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/suman319dega/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/suman319dega/Leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -1144,4 +1147,8 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/suman319dega/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/suman319dega/Leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
