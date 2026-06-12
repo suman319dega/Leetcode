@@ -48,6 +48,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suman319dega/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/suman319dega/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/suman319dega/Leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/suman319dega/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/suman319dega/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/suman319dega/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/suman319dega/Leetcode/tree/master/0217-contains-duplicate) |
@@ -487,6 +488,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0074-search-a-2d-matrix](https://github.com/suman319dega/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/suman319dega/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/suman319dega/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/suman319dega/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/suman319dega/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0419-battleships-in-a-board](https://github.com/suman319dega/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/suman319dega/Leetcode/tree/master/0463-island-perimeter) |
@@ -899,6 +901,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0144-binary-tree-preorder-traversal](https://github.com/suman319dega/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suman319dega/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/suman319dega/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/suman319dega/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/suman319dega/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/suman319dega/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -955,6 +958,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0112-path-sum](https://github.com/suman319dega/Leetcode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/suman319dega/Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/suman319dega/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/suman319dega/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/suman319dega/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/suman319dega/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -1156,4 +1160,8 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/suman319dega/Leetcode/tree/master/0460-lfu-cache) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/suman319dega/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
