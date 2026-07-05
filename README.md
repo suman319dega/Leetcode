@@ -181,6 +181,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/suman319dega/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/suman319dega/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2404-most-frequent-even-element](https://github.com/suman319dega/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/suman319dega/Leetcode/tree/master/2418-sort-the-people) |
 | [2502-sort-the-people](https://github.com/suman319dega/Leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/suman319dega/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2553-separate-the-digits-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -292,6 +293,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/suman319dega/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/suman319dega/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2404-most-frequent-even-element](https://github.com/suman319dega/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/suman319dega/Leetcode/tree/master/2418-sort-the-people) |
 | [2502-sort-the-people](https://github.com/suman319dega/Leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/suman319dega/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/suman319dega/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -640,6 +642,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/suman319dega/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/suman319dega/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/suman319dega/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2418-sort-the-people](https://github.com/suman319dega/Leetcode/tree/master/2418-sort-the-people) |
 | [2502-sort-the-people](https://github.com/suman319dega/Leetcode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/suman319dega/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2728-sum-in-a-matrix](https://github.com/suman319dega/Leetcode/tree/master/2728-sum-in-a-matrix) |
@@ -780,6 +783,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/suman319dega/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/suman319dega/Leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/suman319dega/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2418-sort-the-people](https://github.com/suman319dega/Leetcode/tree/master/2418-sort-the-people) |
 | [2502-sort-the-people](https://github.com/suman319dega/Leetcode/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/suman319dega/Leetcode/tree/master/2580-circular-sentence) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/suman319dega/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
