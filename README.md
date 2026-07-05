@@ -140,6 +140,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/suman319dega/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/suman319dega/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/suman319dega/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1547-destination-city](https://github.com/suman319dega/Leetcode/tree/master/1547-destination-city) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/suman319dega/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -274,6 +275,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/suman319dega/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/suman319dega/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/suman319dega/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1547-destination-city](https://github.com/suman319dega/Leetcode/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/suman319dega/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/suman319dega/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -362,6 +364,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1390-four-divisors](https://github.com/suman319dega/Leetcode/tree/master/1390-four-divisors) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/suman319dega/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/suman319dega/Leetcode/tree/master/1448-maximum-69-number) |
+| [1512-number-of-good-pairs](https://github.com/suman319dega/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/suman319dega/Leetcode/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/suman319dega/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/suman319dega/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -828,6 +831,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1394-find-lucky-integer-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/suman319dega/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/suman319dega/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/suman319dega/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/suman319dega/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/suman319dega/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
