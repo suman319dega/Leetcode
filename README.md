@@ -132,6 +132,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1389-create-target-array-in-the-given-order](https://github.com/suman319dega/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/suman319dega/Leetcode/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1408-string-matching-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/suman319dega/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/suman319dega/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1470-shuffle-the-array](https://github.com/suman319dega/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -729,6 +730,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1297-maximum-number-of-balloons](https://github.com/suman319dega/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/suman319dega/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/suman319dega/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1408-string-matching-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1446-consecutive-characters](https://github.com/suman319dega/Leetcode/tree/master/1446-consecutive-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/suman319dega/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1542-consecutive-characters](https://github.com/suman319dega/Leetcode/tree/master/1542-consecutive-characters) |
@@ -1061,6 +1063,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/suman319dega/Leetcode/tree/master/0812-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/suman319dega/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Enumeration
 |  |
