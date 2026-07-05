@@ -246,6 +246,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0645-set-mismatch](https://github.com/suman319dega/Leetcode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/suman319dega/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/suman319dega/Leetcode/tree/master/0706-design-hashmap) |
+| [0771-jewels-and-stones](https://github.com/suman319dega/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0782-jewels-and-stones](https://github.com/suman319dega/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/suman319dega/Leetcode/tree/master/0791-custom-sort-string) |
 | [0804-unique-morse-code-words](https://github.com/suman319dega/Leetcode/tree/master/0804-unique-morse-code-words) |
@@ -703,6 +704,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/suman319dega/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0678-valid-parenthesis-string](https://github.com/suman319dega/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0742-to-lower-case](https://github.com/suman319dega/Leetcode/tree/master/0742-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/suman319dega/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0782-jewels-and-stones](https://github.com/suman319dega/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/suman319dega/Leetcode/tree/master/0791-custom-sort-string) |
 | [0800-letter-case-permutation](https://github.com/suman319dega/Leetcode/tree/master/0800-letter-case-permutation) |
