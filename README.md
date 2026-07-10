@@ -404,6 +404,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/suman319dega/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/suman319dega/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/suman319dega/Leetcode/tree/master/3830-find-closest-person) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/suman319dega/Leetcode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Recursion
 |  |
 | ------- |
@@ -806,6 +807,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3798-largest-even-number](https://github.com/suman319dega/Leetcode/tree/master/3798-largest-even-number) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/suman319dega/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3884-first-matching-character-from-both-ends](https://github.com/suman319dega/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/suman319dega/Leetcode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -855,6 +857,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/suman319dega/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/suman319dega/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/suman319dega/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/suman319dega/Leetcode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Divide and Conquer
 |  |
 | ------- |
