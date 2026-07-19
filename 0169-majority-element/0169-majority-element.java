@@ -6,7 +6,7 @@ class Solution {
             if(nums[i] == leader) count++;
             else {
                 count--;
-                if(count <= 0) {
+                if(count == 0) {
                     leader = nums[i];
                     count = 1;
                 }
