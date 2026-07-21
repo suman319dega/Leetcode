@@ -1,15 +1,15 @@
 class Solution {
     public void sortColors(int[] nums) {
-        int zero = 0, one = 0, two = 0;
+        int zeros = 0, ones = 0, twos = 0;
         for(int num : nums) {
-            if(num == 0) zero++;
-            else if(num == 1) one++;
-            else if(num == 2) two++;
+            if(num == 0) zeros++;
+            else if(num == 1) ones++;
+            else twos++;
         }
+        int i = 0;
+        while(zeros-- > 0) nums[i++] = 0;
+        while(ones-- > 0) nums[i++] = 1;
+        while(twos-- > 0) nums[i++] = 2;
 
-        int id = 0;
-        while(zero-- > 0) nums[id++] = 0;
-        while(one-- > 0) nums[id++] = 1;
-        while(two-- > 0) nums[id++] = 2;
     }
 }
