@@ -138,6 +138,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/suman319dega/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1470-shuffle-the-array](https://github.com/suman319dega/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/suman319dega/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/suman319dega/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/suman319dega/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/suman319dega/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -1077,6 +1078,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0966-binary-subarrays-with-sum](https://github.com/suman319dega/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/suman319dega/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/suman319dega/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/suman319dega/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/suman319dega/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/suman319dega/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/suman319dega/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
