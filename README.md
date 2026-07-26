@@ -95,6 +95,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0739-daily-temperatures](https://github.com/suman319dega/Leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/suman319dega/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/suman319dega/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/suman319dega/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/suman319dega/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0777-toeplitz-matrix](https://github.com/suman319dega/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/suman319dega/Leetcode/tree/master/0792-binary-search) |
@@ -447,6 +448,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0435-non-overlapping-intervals](https://github.com/suman319dega/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/suman319dega/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/suman319dega/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/suman319dega/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/suman319dega/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/suman319dega/Leetcode/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/suman319dega/Leetcode/tree/master/1025-divisor-game) |
