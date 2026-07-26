@@ -348,6 +348,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0013-roman-to-integer](https://github.com/suman319dega/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/suman319dega/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/suman319dega/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/suman319dega/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/suman319dega/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/suman319dega/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/suman319dega/Leetcode/tree/master/0070-climbing-stairs) |
@@ -439,6 +440,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0045-jump-game-ii](https://github.com/suman319dega/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/suman319dega/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/suman319dega/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/suman319dega/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/suman319dega/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/suman319dega/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/suman319dega/Leetcode/tree/master/0120-triangle) |
@@ -1203,6 +1205,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/suman319dega/Leetcode/tree/master/0062-unique-paths) |
 | [2187-vowels-of-all-substrings](https://github.com/suman319dega/Leetcode/tree/master/2187-vowels-of-all-substrings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suman319dega/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/suman319dega/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
