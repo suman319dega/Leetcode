@@ -78,6 +78,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/suman319dega/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/suman319dega/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/suman319dega/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/suman319dega/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/suman319dega/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/suman319dega/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/suman319dega/Leetcode/tree/master/0506-relative-ranks) |
@@ -459,6 +460,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0392-is-subsequence](https://github.com/suman319dega/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/suman319dega/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/suman319dega/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/suman319dega/Leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/suman319dega/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/suman319dega/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/suman319dega/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -1174,6 +1176,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0051-n-queens](https://github.com/suman319dega/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/suman319dega/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/suman319dega/Leetcode/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/suman319dega/Leetcode/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/suman319dega/Leetcode/tree/master/0800-letter-case-permutation) |
 ## Database
 |  |
