@@ -276,6 +276,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0791-custom-sort-string](https://github.com/suman319dega/Leetcode/tree/master/0791-custom-sort-string) |
 | [0804-unique-morse-code-words](https://github.com/suman319dega/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0822-unique-morse-code-words](https://github.com/suman319dega/Leetcode/tree/master/0822-unique-morse-code-words) |
+| [0895-maximum-frequency-stack](https://github.com/suman319dega/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/suman319dega/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/suman319dega/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/suman319dega/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -945,6 +946,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0678-valid-parenthesis-string](https://github.com/suman319dega/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/suman319dega/Leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/suman319dega/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0895-maximum-frequency-stack](https://github.com/suman319dega/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suman319dega/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/suman319dega/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suman319dega/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -1251,6 +1253,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0460-lfu-cache](https://github.com/suman319dega/Leetcode/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/suman319dega/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/suman319dega/Leetcode/tree/master/0706-design-hashmap) |
+| [0895-maximum-frequency-stack](https://github.com/suman319dega/Leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Hash Function
 |  |
 | ------- |
@@ -1287,4 +1290,8 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/suman319dega/Leetcode/tree/master/0547-number-of-provinces) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/suman319dega/Leetcode/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
