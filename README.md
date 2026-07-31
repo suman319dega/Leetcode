@@ -315,6 +315,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/suman319dega/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/suman319dega/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/suman319dega/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suman319dega/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/suman319dega/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/suman319dega/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/suman319dega/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -695,6 +696,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2887-sort-vowels-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/suman319dega/Leetcode/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/suman319dega/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suman319dega/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/suman319dega/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3321-type-of-triangle](https://github.com/suman319dega/Leetcode/tree/master/3321-type-of-triangle) |
 | [3467-transform-array-by-parity](https://github.com/suman319dega/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -837,6 +839,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/suman319dega/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/suman319dega/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2887-sort-vowels-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suman319dega/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/suman319dega/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/suman319dega/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3136-valid-word](https://github.com/suman319dega/Leetcode/tree/master/3136-valid-word) |
@@ -899,6 +902,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/suman319dega/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/suman319dega/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2404-most-frequent-even-element](https://github.com/suman319dega/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suman319dega/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/suman319dega/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3467-transform-array-by-parity](https://github.com/suman319dega/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/suman319dega/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -1112,6 +1116,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/suman319dega/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/suman319dega/Leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/suman319dega/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suman319dega/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/suman319dega/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Prefix Sum
 |  |
