@@ -211,6 +211,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2728-sum-in-a-matrix](https://github.com/suman319dega/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/suman319dega/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2836-neither-minimum-nor-maximum](https://github.com/suman319dega/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suman319dega/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/suman319dega/Leetcode/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/suman319dega/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/suman319dega/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -318,6 +319,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/suman319dega/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/suman319dega/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/suman319dega/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suman319dega/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suman319dega/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/suman319dega/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/suman319dega/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -1190,6 +1192,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/suman319dega/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/suman319dega/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/suman319dega/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suman319dega/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Backtracking
 |  |
 | ------- |
