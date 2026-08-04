@@ -1,27 +1,27 @@
 class Solution {
-    public boolean dfs(int i,boolean[] visited, boolean[] path,ArrayList<ArrayList<Integer>> list) {
-        visited[i] = true;
-        path[i] = true;
-        for(int num : list.get(i)) {
-            if(!visited[num]) {
-                if(dfs(num,visited,path,list)) return true;
-            }
-            else if(path[num]) return true;
-        }
-        path[i] = false;
-        return false;
-    }
     public boolean canFinish(int n, int[][] nums) {
         ArrayList<ArrayList<Integer>> list = new ArrayList<>();
         for (int i = 0; i < n; i++) list.add(new ArrayList<>());
+        int in[] = new int[n];
         for(int arr[] : nums) {
             list.get(arr[1]).add(arr[0]);
+            in[arr[0]]++;
         }
-        boolean[] visited = new boolean[n];
-        boolean[] path = new boolean[n];
+        Queue<Integer> q = new LinkedList<>();
         for(int i=0; i<n; i++) {
-            if(!visited[i] && dfs(i,visited,path,list)) return false;
+            if(in[i] == 0) {
+                q.offer(i);
+            }
         }
-        return true;
+        int count = 0;
+        while(!q.isEmpty()) {
+            int x = q.poll();
+            count++;
+            for(int num : list.get(x)) {
+                in[num]--;
+                if(in[num] == 0) q.offer(num);
+            }
+        }
+        return count == n;
     }
 }
