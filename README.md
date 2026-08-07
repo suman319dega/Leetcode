@@ -1218,6 +1218,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/suman319dega/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/suman319dega/Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/suman319dega/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
+| [0610-triangle-judgement](https://github.com/suman319dega/Leetcode/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/suman319dega/Leetcode/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/suman319dega/Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/suman319dega/Leetcode/tree/master/1258-article-views-i) |
