@@ -215,6 +215,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2836-neither-minimum-nor-maximum](https://github.com/suman319dega/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suman319dega/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/suman319dega/Leetcode/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suman319dega/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/suman319dega/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/suman319dega/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/suman319dega/Leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
@@ -322,6 +323,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/suman319dega/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/suman319dega/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suman319dega/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suman319dega/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suman319dega/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/suman319dega/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/suman319dega/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -704,6 +706,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2836-neither-minimum-nor-maximum](https://github.com/suman319dega/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2887-sort-vowels-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/suman319dega/Leetcode/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suman319dega/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/suman319dega/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suman319dega/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/suman319dega/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
