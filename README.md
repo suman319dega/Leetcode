@@ -19,6 +19,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0041-first-missing-positive](https://github.com/suman319dega/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/suman319dega/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/suman319dega/Leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/suman319dega/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/suman319dega/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/suman319dega/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/suman319dega/Leetcode/tree/master/0051-n-queens) |
@@ -1199,6 +1200,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/suman319dega/Leetcode/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/suman319dega/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/suman319dega/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/suman319dega/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/suman319dega/Leetcode/tree/master/0079-word-search) |
