@@ -190,6 +190,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2022-convert-1d-array-into-2d-array](https://github.com/suman319dega/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/suman319dega/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2057-smallest-index-with-equal-value](https://github.com/suman319dega/Leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/suman319dega/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/suman319dega/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/suman319dega/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
