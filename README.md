@@ -187,6 +187,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1929-concatenation-of-array](https://github.com/suman319dega/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suman319dega/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/suman319dega/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/suman319dega/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/suman319dega/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/suman319dega/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -587,6 +588,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/suman319dega/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/suman319dega/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/suman319dega/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/suman319dega/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/suman319dega/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/suman319dega/Leetcode/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2728-sum-in-a-matrix](https://github.com/suman319dega/Leetcode/tree/master/2728-sum-in-a-matrix) |
@@ -610,6 +612,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1688-count-of-matches-in-tournament](https://github.com/suman319dega/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/suman319dega/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/suman319dega/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/suman319dega/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/suman319dega/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/suman319dega/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/suman319dega/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
