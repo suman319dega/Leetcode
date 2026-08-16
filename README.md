@@ -245,6 +245,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suman319dega/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3861-minimum-capacity-box](https://github.com/suman319dega/Leetcode/tree/master/3861-minimum-capacity-box) |
 | [3917-count-indices-with-opposite-parity](https://github.com/suman319dega/Leetcode/tree/master/3917-count-indices-with-opposite-parity) |
+| [3925-concatenate-array-with-reverse](https://github.com/suman319dega/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/suman319dega/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
@@ -631,6 +632,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3379-transformed-array](https://github.com/suman319dega/Leetcode/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/suman319dega/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/suman319dega/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/suman319dega/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
 | ------- |
