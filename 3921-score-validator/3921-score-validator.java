@@ -1,20 +1,36 @@
 class Solution {
     public int[] scoreValidator(String[] events) {
-        HashMap<String,Integer> map = new HashMap<>();
-        map.put("WD",1);
-        map.put("NB",1);
-        map.put("1",1);
-        map.put("0",0);
-        map.put("2",2);
-        map.put("3",3);
-        map.put("4",4);
-        map.put("6",6);
         int score = 0;
         int count = 0;
         for(String s : events) {
-            if(count == 10) break;
-            if(map.containsKey(s)) score += map.get(s);
-            else if(s.equals("W") && count < 10) count++;
+           if(count == 10) break;
+
+           switch(s) {
+             case "WD":
+             case "NB":
+             case "1":
+                score += 1;
+                break;
+            case "2":
+                score += 2;
+                break;
+            case "3":
+                score += 3;
+                break;
+            case "4":
+                score += 4;
+                break;
+            case "6":
+                score += 6;
+                break;
+            case "W":
+                count++;
+                break;
+            case "0":
+            default:
+                break;
+
+           }
         }
         return new int[]{score,count};
     }
