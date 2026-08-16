@@ -245,6 +245,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suman319dega/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3861-minimum-capacity-box](https://github.com/suman319dega/Leetcode/tree/master/3861-minimum-capacity-box) |
 | [3917-count-indices-with-opposite-parity](https://github.com/suman319dega/Leetcode/tree/master/3917-count-indices-with-opposite-parity) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/suman319dega/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
 | ------- |
@@ -560,6 +561,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/suman319dega/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/suman319dega/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/suman319dega/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/suman319dega/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Matrix
 |  |
 | ------- |
