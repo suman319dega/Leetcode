@@ -1041,6 +1041,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0207-course-schedule](https://github.com/suman319dega/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/suman319dega/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/suman319dega/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/suman319dega/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0419-battleships-in-a-board](https://github.com/suman319dega/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/suman319dega/Leetcode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/suman319dega/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1338,6 +1339,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/suman319dega/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/suman319dega/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Graph Theory
 |  |
 | ------- |
