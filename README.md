@@ -134,6 +134,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0974-subarray-sums-divisible-by-k](https://github.com/suman319dega/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/suman319dega/Leetcode/tree/master/0994-rotting-oranges) |
 | [1018-largest-perimeter-triangle](https://github.com/suman319dega/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1027-longest-arithmetic-subsequence](https://github.com/suman319dega/Leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1036-rotting-oranges](https://github.com/suman319dega/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/suman319dega/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-last-stone-weight-ii](https://github.com/suman319dega/Leetcode/tree/master/1049-last-stone-weight-ii) |
@@ -298,6 +299,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/suman319dega/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/suman319dega/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/suman319dega/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1027-longest-arithmetic-subsequence](https://github.com/suman319dega/Leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/suman319dega/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/suman319dega/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/suman319dega/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -498,6 +500,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0918-maximum-sum-circular-subarray](https://github.com/suman319dega/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/suman319dega/Leetcode/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/suman319dega/Leetcode/tree/master/1025-divisor-game) |
+| [1027-longest-arithmetic-subsequence](https://github.com/suman319dega/Leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1049-last-stone-weight-ii](https://github.com/suman319dega/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/suman319dega/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/suman319dega/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -665,6 +668,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0792-binary-search](https://github.com/suman319dega/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/suman319dega/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/suman319dega/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1027-longest-arithmetic-subsequence](https://github.com/suman319dega/Leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/suman319dega/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suman319dega/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/suman319dega/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
