@@ -244,6 +244,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/suman319dega/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/suman319dega/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suman319dega/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/suman319dega/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3745-maximize-expression-of-three-elements](https://github.com/suman319dega/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3861-minimum-capacity-box](https://github.com/suman319dega/Leetcode/tree/master/3861-minimum-capacity-box) |
 | [3917-count-indices-with-opposite-parity](https://github.com/suman319dega/Leetcode/tree/master/3917-count-indices-with-opposite-parity) |
@@ -349,6 +350,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3405-count-the-number-of-special-characters-ii](https://github.com/suman319dega/Leetcode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/suman319dega/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/suman319dega/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/suman319dega/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/suman319dega/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/suman319dega/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/suman319dega/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
