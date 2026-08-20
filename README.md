@@ -66,6 +66,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0213-house-robber-ii](https://github.com/suman319dega/Leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/suman319dega/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/suman319dega/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/suman319dega/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/suman319dega/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/suman319dega/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/suman319dega/Leetcode/tree/master/0268-missing-number) |
@@ -691,6 +692,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0164-maximum-gap](https://github.com/suman319dega/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/suman319dega/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suman319dega/Leetcode/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/suman319dega/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/suman319dega/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/suman319dega/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/suman319dega/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -917,6 +919,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/suman319dega/Leetcode/tree/master/0164-maximum-gap) |
+| [0220-contains-duplicate-iii](https://github.com/suman319dega/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0451-sort-characters-by-frequency](https://github.com/suman319dega/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
@@ -1226,6 +1229,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0003-longest-substring-without-repeating-characters](https://github.com/suman319dega/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/suman319dega/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/suman319dega/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/suman319dega/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0424-longest-repeating-character-replacement](https://github.com/suman319dega/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/suman319dega/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -1361,6 +1365,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/suman319dega/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0895-maximum-frequency-stack](https://github.com/suman319dega/Leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Directed Acyclic Graph
 |  |
