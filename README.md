@@ -429,6 +429,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/suman319dega/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1903-largest-odd-number-in-string](https://github.com/suman319dega/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/suman319dega/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1927-sum-game](https://github.com/suman319dega/Leetcode/tree/master/1927-sum-game) |
 | [2083-three-divisors](https://github.com/suman319dega/Leetcode/tree/master/2083-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/suman319dega/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/suman319dega/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -866,6 +867,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1894-merge-strings-alternately](https://github.com/suman319dega/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/suman319dega/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/suman319dega/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1927-sum-game](https://github.com/suman319dega/Leetcode/tree/master/1927-sum-game) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/suman319dega/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/suman319dega/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suman319dega/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1169,6 +1171,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/suman319dega/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/suman319dega/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/suman319dega/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/suman319dega/Leetcode/tree/master/1927-sum-game) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/suman319dega/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/suman319dega/Leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/suman319dega/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -1294,6 +1297,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/suman319dega/Leetcode/tree/master/1025-divisor-game) |
+| [1927-sum-game](https://github.com/suman319dega/Leetcode/tree/master/1927-sum-game) |
 | [3462-vowels-game-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Interactive
 |  |
