@@ -77,6 +77,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0327-count-of-range-sum](https://github.com/suman319dega/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/suman319dega/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/suman319dega/Leetcode/tree/master/0377-combination-sum-iv) |
+| [0410-split-array-largest-sum](https://github.com/suman319dega/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/suman319dega/Leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/suman319dega/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/suman319dega/Leetcode/tree/master/0419-battleships-in-a-board) |
@@ -499,6 +500,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0338-counting-bits](https://github.com/suman319dega/Leetcode/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/suman319dega/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/suman319dega/Leetcode/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/suman319dega/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/suman319dega/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/suman319dega/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/suman319dega/Leetcode/tree/master/0494-target-sum) |
@@ -668,6 +670,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0327-count-of-range-sum](https://github.com/suman319dega/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/suman319dega/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/suman319dega/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/suman319dega/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/suman319dega/Leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suman319dega/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/suman319dega/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -1163,6 +1166,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suman319dega/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/suman319dega/Leetcode/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/suman319dega/Leetcode/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/suman319dega/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/suman319dega/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/suman319dega/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/suman319dega/Leetcode/tree/master/0561-array-partition) |
@@ -1188,6 +1192,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0209-minimum-size-subarray-sum](https://github.com/suman319dega/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/suman319dega/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/suman319dega/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/suman319dega/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/suman319dega/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/suman319dega/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/suman319dega/Leetcode/tree/master/0724-find-pivot-index) |
