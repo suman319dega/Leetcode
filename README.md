@@ -74,6 +74,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0287-find-the-duplicate-number](https://github.com/suman319dega/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/suman319dega/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/suman319dega/Leetcode/tree/master/0322-coin-change) |
+| [0327-count-of-range-sum](https://github.com/suman319dega/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/suman319dega/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/suman319dega/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0414-third-maximum-number](https://github.com/suman319dega/Leetcode/tree/master/0414-third-maximum-number) |
@@ -664,6 +665,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0268-missing-number](https://github.com/suman319dega/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/suman319dega/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/suman319dega/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0327-count-of-range-sum](https://github.com/suman319dega/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/suman319dega/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/suman319dega/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/suman319dega/Leetcode/tree/master/0441-arranging-coins) |
@@ -975,12 +977,14 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0190-reverse-bits](https://github.com/suman319dega/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/suman319dega/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/suman319dega/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0327-count-of-range-sum](https://github.com/suman319dega/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/suman319dega/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/suman319dega/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/suman319dega/Leetcode/tree/master/0148-sort-list) |
+| [0327-count-of-range-sum](https://github.com/suman319dega/Leetcode/tree/master/0327-count-of-range-sum) |
 ## Stack
 |  |
 | ------- |
@@ -1375,6 +1379,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/suman319dega/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0327-count-of-range-sum](https://github.com/suman319dega/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0895-maximum-frequency-stack](https://github.com/suman319dega/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/suman319dega/Leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Directed Acyclic Graph
@@ -1389,4 +1394,16 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/suman319dega/Leetcode/tree/master/0037-sudoku-solver) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/suman319dega/Leetcode/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/suman319dega/Leetcode/tree/master/0327-count-of-range-sum) |
+## Treap
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/suman319dega/Leetcode/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
