@@ -841,6 +841,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0812-rotate-string](https://github.com/suman319dega/Leetcode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/suman319dega/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0848-shifting-letters](https://github.com/suman319dega/Leetcode/tree/master/0848-shifting-letters) |
+| [0856-score-of-parentheses](https://github.com/suman319dega/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0857-positions-of-large-groups](https://github.com/suman319dega/Leetcode/tree/master/0857-positions-of-large-groups) |
 | [0874-backspace-string-compare](https://github.com/suman319dega/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/suman319dega/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -1011,6 +1012,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0496-next-greater-element-i](https://github.com/suman319dega/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/suman319dega/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/suman319dega/Leetcode/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/suman319dega/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0874-backspace-string-compare](https://github.com/suman319dega/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0895-maximum-frequency-stack](https://github.com/suman319dega/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suman319dega/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -1421,4 +1423,8 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/suman319dega/Leetcode/tree/master/0327-count-of-range-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/suman319dega/Leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
