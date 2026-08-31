@@ -410,6 +410,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0258-add-digits](https://github.com/suman319dega/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/suman319dega/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/suman319dega/Leetcode/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/suman319dega/Leetcode/tree/master/0390-elimination-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/suman319dega/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/suman319dega/Leetcode/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/suman319dega/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -482,6 +483,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0206-reverse-linked-list](https://github.com/suman319dega/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/suman319dega/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/suman319dega/Leetcode/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/suman319dega/Leetcode/tree/master/0390-elimination-game) |
 | [1013-fibonacci-number](https://github.com/suman319dega/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
