@@ -155,6 +155,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1256-rank-transform-of-an-array](https://github.com/suman319dega/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/suman319dega/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/suman319dega/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/suman319dega/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1319-unique-number-of-occurrences](https://github.com/suman319dega/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/suman319dega/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/suman319dega/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -426,6 +427,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1260-day-of-the-year](https://github.com/suman319dega/Leetcode/tree/master/1260-day-of-the-year) |
 | [1266-minimum-time-visiting-all-points](https://github.com/suman319dega/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/suman319dega/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/suman319dega/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/suman319dega/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/suman319dega/Leetcode/tree/master/1390-four-divisors) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/suman319dega/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
