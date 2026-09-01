@@ -1452,4 +1452,8 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suman319dega/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/suman319dega/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
