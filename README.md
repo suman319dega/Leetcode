@@ -126,6 +126,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0832-flipping-an-image](https://github.com/suman319dega/Leetcode/tree/master/0832-flipping-an-image) |
 | [0848-shifting-letters](https://github.com/suman319dega/Leetcode/tree/master/0848-shifting-letters) |
 | [0861-flipping-an-image](https://github.com/suman319dega/Leetcode/tree/master/0861-flipping-an-image) |
+| [0875-koko-eating-bananas](https://github.com/suman319dega/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/suman319dega/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/suman319dega/Leetcode/tree/master/0890-lemonade-change) |
 | [0896-monotonic-array](https://github.com/suman319dega/Leetcode/tree/master/0896-monotonic-array) |
@@ -696,6 +697,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/suman319dega/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/suman319dega/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/suman319dega/Leetcode/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/suman319dega/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/suman319dega/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/suman319dega/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1027-longest-arithmetic-subsequence](https://github.com/suman319dega/Leetcode/tree/master/1027-longest-arithmetic-subsequence) |
