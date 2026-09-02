@@ -2,22 +2,25 @@ class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
         int n = nums1.length;
         int ans[] = new int[n];
-        for(int i=0; i<n; i++) {
-            int id = -1;
-            int nxt = -1;
-            for(int j=0; j<nums2.length; j++) {
-                if(nums2[j] == nums1[i]) {
-                    id = j;
-                    break;
-                };
-            }
-            for(int j=id+1; j<nums2.length; j++) {
-                if(nums2[j] > nums1[i]) {
-                    nxt = nums2[j];
+        for(int j=0; j<n; j++) {
+            int x = nums2.length;
+            int id = 0;
+            for(int i=0; i<x; i++) {
+                if(nums2[i] == nums1[j]) {
+                    id = i;
                     break;
                 }
             }
-            ans[i] = nxt;
+            int a = -1;
+            if(id == x-1) ans[j] = a;
+            for(int k=id; k<x-1; k++) {
+                if(nums2[k+1] > nums2[id]) {
+                    a = nums2[k+1];
+                    break;
+                }
+            }
+            ans[j] = a;
+
         }
         return ans;
     }
