@@ -5,12 +5,13 @@ class Solution {
         int i = 0, j = 0;
         int max_len = 0;
         while(j < n) {
-            char ch = s.charAt(j);
-            if(map.containsKey(ch) && map.get(ch) >= i) i = map.get(ch) + 1;
-            map.put(ch,j);
-            max_len = Math.max(max_len,(j-i+1));
+            if(map.containsKey(s.charAt(j))) {
+                i = Math.max(i, map.get(s.charAt(j)) + 1);
+            }
+            map.put(s.charAt(j),j);
+            max_len = Math.max(j-i+1,max_len);
             j++;
         }
-        return (max_len == 0) ? 0 : max_len;
+        return max_len;
     }
 }
