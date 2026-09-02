@@ -1,14 +1,13 @@
 class Solution {
-    public int maxArea(int[] arr) {
-        int n = arr.length;
-        int left = 0, right = n-1;
-        int max_water = Integer.MIN_VALUE;
-        while(left < right) {
-            int w = right - left;
-            int h = Math.min(arr[left],arr[right]);
-            max_water = Math.max(max_water,w*h);
-            if(arr[left] < arr[right]) left++;
-            else right--;
+    public int maxArea(int[] height) {
+        int n = height.length;
+        int i = 0, j = n-1;
+        int max_water = 0;
+        while(i < j) {
+            int water = (j-i) * Math.min(height[i],height[j]);
+            max_water = Math.max(max_water,water);
+            if(height[i] < height[j]) i++;
+            else j--;
         }
         return max_water;
     }
