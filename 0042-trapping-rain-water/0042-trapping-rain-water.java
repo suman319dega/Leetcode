@@ -6,17 +6,13 @@ class Solution {
         int left_max = 0, right_max = 0;
         while(left <= right) {
             if(left_max <= right_max) {
-                if(left_max < arr[left]) {
-                    left_max = arr[left];
-                }
-                else rain += left_max - arr[left];
+                left_max = Math.max(left_max,arr[left]);
+                rain += left_max - arr[left];
                 left++;
             }
             else {
-                if(right_max < arr[right]) {
-                    right_max = arr[right];
-                }
-                else rain += right_max - arr[right];
+                right_max = Math.max(right_max,arr[right]);
+                rain += right_max - arr[right];
                 right--;
             }
         }
