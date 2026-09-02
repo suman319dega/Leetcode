@@ -261,6 +261,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3718-smallest-missing-multiple-of-k](https://github.com/suman319dega/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3745-maximize-expression-of-three-elements](https://github.com/suman319dega/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3861-minimum-capacity-box](https://github.com/suman319dega/Leetcode/tree/master/3861-minimum-capacity-box) |
+| [3875-construct-uniform-parity-array-i](https://github.com/suman319dega/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3917-count-indices-with-opposite-parity](https://github.com/suman319dega/Leetcode/tree/master/3917-count-indices-with-opposite-parity) |
 | [3921-score-validator](https://github.com/suman319dega/Leetcode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/suman319dega/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -479,6 +480,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/suman319dega/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/suman319dega/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/suman319dega/Leetcode/tree/master/3830-find-closest-person) |
+| [3875-construct-uniform-parity-array-i](https://github.com/suman319dega/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/suman319dega/Leetcode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Recursion
 |  |
