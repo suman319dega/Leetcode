@@ -94,6 +94,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0494-target-sum](https://github.com/suman319dega/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/suman319dega/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/suman319dega/Leetcode/tree/master/0500-keyboard-row) |
+| [0503-next-greater-element-ii](https://github.com/suman319dega/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/suman319dega/Leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/suman319dega/Leetcode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/suman319dega/Leetcode/tree/master/0525-contiguous-array) |
@@ -1039,6 +1040,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0232-implement-queue-using-stacks](https://github.com/suman319dega/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/suman319dega/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/suman319dega/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/suman319dega/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/suman319dega/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/suman319dega/Leetcode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/suman319dega/Leetcode/tree/master/0856-score-of-parentheses) |
@@ -1057,6 +1059,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0042-trapping-rain-water](https://github.com/suman319dega/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/suman319dega/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/suman319dega/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/suman319dega/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/suman319dega/Leetcode/tree/master/0739-daily-temperatures) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/suman319dega/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/suman319dega/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
