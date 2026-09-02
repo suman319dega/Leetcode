@@ -127,6 +127,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0848-shifting-letters](https://github.com/suman319dega/Leetcode/tree/master/0848-shifting-letters) |
 | [0861-flipping-an-image](https://github.com/suman319dega/Leetcode/tree/master/0861-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/suman319dega/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/suman319dega/Leetcode/tree/master/0877-stone-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/suman319dega/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/suman319dega/Leetcode/tree/master/0890-lemonade-change) |
 | [0896-monotonic-array](https://github.com/suman319dega/Leetcode/tree/master/0896-monotonic-array) |
@@ -426,6 +427,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0628-maximum-product-of-three-numbers](https://github.com/suman319dega/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/suman319dega/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/suman319dega/Leetcode/tree/master/0738-monotone-increasing-digits) |
+| [0877-stone-game](https://github.com/suman319dega/Leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/suman319dega/Leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/suman319dega/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/suman319dega/Leetcode/tree/master/1025-divisor-game) |
@@ -528,6 +530,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0542-01-matrix](https://github.com/suman319dega/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/suman319dega/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/suman319dega/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/suman319dega/Leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/suman319dega/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/suman319dega/Leetcode/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/suman319dega/Leetcode/tree/master/1025-divisor-game) |
@@ -1346,6 +1349,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/suman319dega/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/suman319dega/Leetcode/tree/master/1025-divisor-game) |
 | [1927-sum-game](https://github.com/suman319dega/Leetcode/tree/master/1927-sum-game) |
 | [3462-vowels-game-in-a-string](https://github.com/suman319dega/Leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -1473,4 +1477,12 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/suman319dega/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/suman319dega/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/suman319dega/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
