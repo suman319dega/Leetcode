@@ -217,6 +217,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/suman319dega/Leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/suman319dega/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/suman319dega/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2293-min-max-game](https://github.com/suman319dega/Leetcode/tree/master/2293-min-max-game) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suman319dega/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/suman319dega/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/suman319dega/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -667,6 +668,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2180-count-integers-with-even-digit-sum](https://github.com/suman319dega/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/suman319dega/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/suman319dega/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2293-min-max-game](https://github.com/suman319dega/Leetcode/tree/master/2293-min-max-game) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/suman319dega/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/suman319dega/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2728-sum-in-a-matrix](https://github.com/suman319dega/Leetcode/tree/master/2728-sum-in-a-matrix) |
