@@ -481,6 +481,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3515-find-if-digit-game-can-be-won](https://github.com/suman319dega/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3536-maximum-product-of-two-digits](https://github.com/suman319dega/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/suman319dega/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/suman319dega/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/suman319dega/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/suman319dega/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/suman319dega/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -546,6 +547,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/suman319dega/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2187-vowels-of-all-substrings](https://github.com/suman319dega/Leetcode/tree/master/2187-vowels-of-all-substrings) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/suman319dega/Leetcode/tree/master/3259-maximum-energy-boost-from-two-drinks) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/suman319dega/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
@@ -1281,6 +1283,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2083-three-divisors](https://github.com/suman319dega/Leetcode/tree/master/2083-three-divisors) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/suman319dega/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/suman319dega/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/suman319dega/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
