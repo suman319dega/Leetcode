@@ -266,6 +266,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3745-maximize-expression-of-three-elements](https://github.com/suman319dega/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3861-minimum-capacity-box](https://github.com/suman319dega/Leetcode/tree/master/3861-minimum-capacity-box) |
 | [3875-construct-uniform-parity-array-i](https://github.com/suman319dega/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/suman319dega/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3917-count-indices-with-opposite-parity](https://github.com/suman319dega/Leetcode/tree/master/3917-count-indices-with-opposite-parity) |
 | [3921-score-validator](https://github.com/suman319dega/Leetcode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/suman319dega/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -1261,6 +1262,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [2485-find-the-pivot-integer](https://github.com/suman319dega/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/suman319dega/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/suman319dega/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3903-smallest-stable-index-i](https://github.com/suman319dega/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Counting Sort
 |  |
 | ------- |
