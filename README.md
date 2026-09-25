@@ -260,6 +260,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/suman319dega/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/suman319dega/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/suman319dega/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suman319dega/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/suman319dega/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/suman319dega/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suman319dega/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -486,6 +487,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/suman319dega/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/suman319dega/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3536-maximum-product-of-two-digits](https://github.com/suman319dega/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suman319dega/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/suman319dega/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/suman319dega/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/suman319dega/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
