@@ -189,6 +189,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/suman319dega/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/suman319dega/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1635-number-of-good-pairs](https://github.com/suman319dega/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1640-check-array-formation-through-concatenation](https://github.com/suman319dega/Leetcode/tree/master/1640-check-array-formation-through-concatenation) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/suman319dega/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1677-matrix-diagonal-sum](https://github.com/suman319dega/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/suman319dega/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -346,6 +347,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [1512-number-of-good-pairs](https://github.com/suman319dega/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1547-destination-city](https://github.com/suman319dega/Leetcode/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/suman319dega/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1640-check-array-formation-through-concatenation](https://github.com/suman319dega/Leetcode/tree/master/1640-check-array-formation-through-concatenation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/suman319dega/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/suman319dega/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1777-determine-if-two-strings-are-close](https://github.com/suman319dega/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
